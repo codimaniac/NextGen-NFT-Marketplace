@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+:root {
+    --primary-color: #04040c;
+    --secondary-color: #5c43f6;
+    --accent-color: #bc61f3;
+    --light-color: #f2f2f2;
+    --gray-color: #f0f0f0;
+}
+
+html, body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  background-color: var(--primary-color);
+  color: var(--light-color);
+}
+
+.section__margin {
+  margin: 1rem 6.5vw;
+}
+
+.gradient-rad-bg {
+    /* ff 3.6+ */
+    background: -moz-radial-gradient(circle at 50% 50%, #6F1ADB 0%, #11111100 100%);
+
+    /* safari 5.1+,chrome 10+ */
+    background: -webkit-radial-gradient(circle at 50% 50%, #6F1ADB 0%, #11111100 100%);
+
+    /* opera 11.10+ */
+    background: -o-radial-gradient(circle at 50% 50%, #6F1ADB 0%, #11111100 100%);
+
+    /* ie 10+ */
+    background: -ms-radial-gradient(circle at 50% 50%, #6F1ADB 0%, #11111100 100%);
+
+    /* global 92%+ browsers support */
+    background: radial-gradient(circle at 50% 50%, #6F1ADB 0%, #11111100 100%);
+}
+
+.gradient-lin-bg {
+    /* ff 3.6+ */
+    background: -moz-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%); 
+
+    /* safari 5.1+,chrome 10+ */
+    background: -webkit-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+
+    /* opera 11.10+ */
+    background: -o-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#BC61F3', endColorstr='#5C43F6', GradientType=1 );
+
+    /* ie 10+ */
+    background: -ms-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+
+    /* global 94%+ browsers support */
+    background: linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+}
+
+.gradient-text {
+    /* ff 3.6+ */
+    background: -moz-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%); 
+
+    /* safari 5.1+,chrome 10+ */
+    background: -webkit-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+
+    /* opera 11.10+ */
+    background: -o-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#BC61F3', endColorstr='#5C43F6', GradientType=1 );
+
+    /* ie 10+ */
+    background: -ms-linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+
+    /* global 94%+ browsers support */
+    background: linear-gradient(180deg, #5C43F6 0%, #BC61F3 100%);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.scale-up-center {
+    -webkit-animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+        animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+@-webkit-keyframes scale-up-center {
+    0% {
+        -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+    }
+    100% {
+        -webkit-transform: scale(1);
+            transform: scale(1);
+    }
+}
+
+@keyframes scale-up-center {
+    0% {
+        -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+    }
+    100% {
+        -webkit-transform: scale(1);
+            transform: scale(1);
+    }
+}
+
+.clipped-img {
+    background-image: url(./assets/nenad-novakovic-L2QB-rG5NM0-unsplash.png);
+}
