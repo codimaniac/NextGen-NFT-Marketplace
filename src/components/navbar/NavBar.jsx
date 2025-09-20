@@ -6,10 +6,10 @@ import { RiCloseLine, RiMenu3Line } from 'react-icons/ri'
 const Menu = () => {
   return (
     <>
-      <li><a href="#home" className="no-underline">Home</a></li>
-      <li><a href="#marketplace" className="no-underline">Marketplace</a></li>
-      <li><a href="#artist" className="no-underline">Artist</a></li>
-      <li><a href="#community" className="no-underline">Community</a></li>
+      <li><a href="#home" className="no-underline hover:text-[var(--secondary-color)]">Home</a></li>
+      <li><a href="#marketplace" className="no-underline hover:text-[var(--secondary-color)]">Marketplace</a></li>
+      <li><a href="#artist" className="no-underline hover:text-[var(--secondary-color)]">Artist</a></li>
+      <li><a href="#community" className="no-underline hover:text-[var(--secondary-color)]">Community</a></li>
     </>
   )
 }

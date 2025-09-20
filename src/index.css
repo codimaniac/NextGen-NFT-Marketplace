@@ -113,4 +113,6 @@ html, body {
 
 .clipped-img {
     background-image: url(./assets/nenad-novakovic-L2QB-rG5NM0-unsplash.png);
+    background-clip: text;
+    color: transparent;
 }
