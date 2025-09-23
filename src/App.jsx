@@ -1,6 +1,6 @@
 import './App.css'
 import { Shade } from './components'
-import { CollectNFTs, Footer, Header, Newsletter, TopCreators } from './containers'
+import { CollectNFTs, Footer, Header, LatestBlog, Newsletter, NFTsCollections, TopCreators } from './containers'
 
 function App() {
 
@@ -12,7 +12,8 @@ function App() {
       <Shade className="w-60 h-60 left-2/3 lg:top-400 lg:right-[-20%] lg:w-150 lg:h-150"/>
       <TopCreators />
       <Newsletter />
-
+      <NFTsCollections />
+      <LatestBlog />
       <Footer />
     </>
   )

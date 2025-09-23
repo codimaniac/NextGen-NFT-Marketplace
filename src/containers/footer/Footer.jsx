@@ -8,7 +8,7 @@ import Youtube from "../../assets/Youtube.svg"
 const Footer = () => {
   return (
     <div className="flex flex-col gap-4">
-        <div className="flex flex-col gap-8 section__margin lg:flex-row lg:gap-32">
+        <div className="flex flex-col gap-8 section__margin lg:flex-row lg:gap-20">
             <div className="flex flex-col gap-2 flex-2">
                 <img src={Logo} alt="Logo" className='w-28 h-auto md:w-[7rem] xl:w-[10rem]' />
                 <p className="text-sm text-[var(--gray-color)] font-light leading-[183%]">Ultrices eget pretium sit euismod mi id posuere ac in in nisl sed augue.  Posuere ac in in nisl sed augue.</p>
@@ -20,7 +20,7 @@ const Footer = () => {
                     <span className="flex items-center justify-center w-11.5 h-11.5 border-1 bg-[#569bdf20] border-[#869bdf28] rounded-[50%] cursor-pointer"><img src={Youtube} alt="Youtube" /></span>
                 </div>
             </div>
-            <div className="flex flex-col gap-8 justify-between flex-4 lg:flex-row lg:gap-0">
+            <div className="flex flex-col gap-8 justify-between flex-8 md:flex-row lg:gap-0">
                 <div className="flex flex-col gap-4">
                     <h3 className="font-bold">Marketplace</h3>
                     <ul className="flex flex-col gap-2">
