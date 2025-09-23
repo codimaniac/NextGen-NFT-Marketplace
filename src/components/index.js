@@ -1,3 +1,5 @@
 export {default as NavBar} from './navbar/NavBar'
 export {default as Button} from './button/Button'
 export {default as ListedBrands} from './listed-brands/ListedBrands'
+export {default as NFTsCard} from './nfts-card/NFTsCard'
+export {default as Shade} from './shade/Shade'
