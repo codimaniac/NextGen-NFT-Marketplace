@@ -7,7 +7,7 @@ import Youtube from "../../assets/Youtube.svg"
 
 const Footer = () => {
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-4 mt-30">
         <div className="flex flex-col gap-8 section__margin lg:flex-row lg:gap-20">
             <div className="flex flex-col gap-2 flex-2">
                 <img src={Logo} alt="Logo" className='w-28 h-auto md:w-[7rem] xl:w-[10rem]' />
