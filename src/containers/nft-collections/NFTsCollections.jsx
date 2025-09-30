@@ -10,7 +10,7 @@ const NFTsCollections = () => {
           {
             collectionsDetails.map((collectionsDetail, id) => {
               return (
-                <CollectionCard collection_name={collectionsDetail.name} collection_image={collectionsDetail.image}/>
+                <CollectionCard key={id} collection_name={collectionsDetail.name} collection_image={collectionsDetail.image}/>
               )
             })
           }

@@ -18,7 +18,7 @@ const Signup = () => {
               <input type="text" name="fullname" id="fullname" placeholder="Your full name" className=" bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] px-4 py-2 w-full text-xs"/>
               <input type="email" name="email" id="email" placeholder="Your email address" className=" bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] px-4 py-2 w-full text-xs"/>
               <input type="password" name="password" id="password" placeholder="Type your password" className=" bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] px-4 py-2 w-full text-xs"/>
-              <input type="password" name="password" id="password" placeholder="Retype your password" className=" bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] px-4 py-2 w-full text-xs"/>
+              <input type="password" name="confirm__password" id="confirm__password" placeholder="Retype your password" className=" bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] px-4 py-2 w-full text-xs"/>
               <div className="flex items-center justify-between">
                 <span className="flex items-center gap-2 text-[10px]">
                   <input type="checkbox" name="remember__me" id="remember__me" className="bg-transparent"/>
