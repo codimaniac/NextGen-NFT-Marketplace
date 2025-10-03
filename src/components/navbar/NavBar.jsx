@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 const Menu = ({toggle}) => {
   return (
     <>
-      <li><a href="#home" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Home</a></li>
+      <li><Link to="/" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Home</Link></li>
       <li><a href="#marketplace" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Marketplace</a></li>
       <li><a href="#artist" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Artist</a></li>
       <li><a href="#community" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Community</a></li>

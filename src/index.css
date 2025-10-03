@@ -113,6 +113,19 @@ html, body {
     }
 }
 
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-1110px);
+    }
+}
+
+.animate-slide {
+    animation: slide 60s linear infinite;
+}
+
 .clipped-img {
     background-image: url(./assets/clipped-image.png);
     background-clip: text;

@@ -2,7 +2,7 @@ import Button from "../button/Button"
 
 const NFTsCard = ({nft, name, price, creator, creator_pfp}) => {
   return (
-    <div className="relative flex flex-1 items-center text-[var(--primary-color)] lg:text-sm">
+    <div className="relative flex w-[340px] items-center text-[var(--primary-color)] lg:text-sm">
         <img src={nft} alt={name} className="rounded-[10px]"/>
         <div className="absolute z-50 top-4/5 left-1/20 w-9/10 flex flex-col gap-4 bg-[var(--light-color)] p-6 rounded-3xl">
             <div className="flex justify-between font-extrabold">
