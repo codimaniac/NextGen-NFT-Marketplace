@@ -1,6 +1,6 @@
 import './App.css'
 import { Routes, Route } from 'react-router-dom'
-import { About, Homepage, Login, Signup } from './pages'
+import { About, ContactUs, Homepage, Login, NotFound, Signup } from './pages'
 import { Layout } from './containers'
 
 function App() {
@@ -12,6 +12,8 @@ function App() {
         <Route path='/login' element={<Login />} />
         <Route path='/signup' element={<Signup />} />
         <Route path='/about' element={<About />} />
+        <Route path='/support' element={<ContactUs />} />
+        <Route path='*' element={<NotFound />} />
       </Route>
     </Routes>
   )

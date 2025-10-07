@@ -8,7 +8,7 @@ import { Link } from "react-router-dom"
 
 const Footer = () => {
   return (
-    <div className="flex flex-col gap-4 mt-16">
+    <div className="flex flex-col gap-4 mt-auto">
         <div className="flex flex-col gap-8 section__margin lg:flex-row lg:gap-20">
             <div className="flex flex-col gap-2 flex-2">
                 <img src={Logo} alt="Logo" className='w-28 h-auto md:w-[7rem] xl:w-[10rem]' />
@@ -43,7 +43,7 @@ const Footer = () => {
                     <h3 className="font-bold">Company</h3>
                     <ul className="flex flex-col gap-2">
                         <li className="font-light cursor-pointer"><Link to="/about">About</Link></li>
-                        <li className="font-light cursor-pointer">Support</li>
+                        <li className="font-light cursor-pointer"><Link to='/support'>Support</Link></li>
                         <li className="font-light cursor-pointer">Features</li>
                         <li className="font-light cursor-pointer">Top Creators</li>
                     </ul>

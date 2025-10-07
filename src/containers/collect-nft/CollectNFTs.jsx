@@ -4,7 +4,7 @@ import { nftDetails } from "./import"
 const CollectNFTs = () => {
   return (
     <div className="flex flex-col items-center section__margin gap-8" id="marketplace">
-        <h2 className="text-3xl font-black lg:text-4xl mt-20">Collect Some NFTs</h2>
+        <h2 className="text-3xl font-extrabold lg:text-4xl mt-20">Collect Some NFTs</h2>
         <div className="flex w-full overflow-x-clip">
             <div className="flex gap-28 lg:flex-row lg:gap-8 animate-slide">
                 {
