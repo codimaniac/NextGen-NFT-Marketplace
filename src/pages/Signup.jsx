@@ -3,7 +3,7 @@ import { Button } from '../components'
 
 const Signup = () => {
   return (
-    <div className="flex justify-center section__margin !mt-16 text-[#848484]">
+    <div className="flex justify-center section__margin  text-[#848484]">
         <div className="items-center w-100 lg:w-120">
             <h1 className="text-center text-2xl font-extrabold leading-[121%] text-[var(--light-color)]">Sign-Up</h1>
             <p className="text-sm text-left font-light w-full mt-10">Sign-Up With Social</p>

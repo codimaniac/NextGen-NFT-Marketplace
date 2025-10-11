@@ -35,7 +35,7 @@ const NavBar = () => {
           {isNavOpen ? <RiCloseLine size={30}/> : <RiMenu3Line size={30}/>}
         </div>
         { isNavOpen && 
-          <ul className="absolute top-15.5 right-0 flex flex-col gap-10 w-full p-4 pl-[6.5vw] pr-[6.5vw] lg:hidden scale-up-center bg-[var(--primary-color)]">
+          <ul className="absolute top-15.5 right-0 z-1000 flex flex-col gap-10 w-full p-4 pl-[6.5vw] pr-[6.5vw] lg:hidden scale-up-center bg-[var(--primary-color)]">
             <Menu toggle={toggleNav}/>
             <div className="flex flex-row gap-4">
               <Button className="gradient-lin-bg"><Link to="/login" onClick={toggleNav}>Log in</Link></Button>
