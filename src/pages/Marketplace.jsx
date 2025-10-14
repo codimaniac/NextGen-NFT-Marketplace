@@ -1,0 +1,30 @@
+import { NFTsCarousel } from "../containers"
+import { useGetData } from "../hooks/useFetch"
+import { Link } from "react-router-dom"
+import { IoMdSearch } from "react-icons/io"
+
+const Marketplace = () => {
+    const [info] = useGetData('http://localhost:3000/NFTs')
+    
+    return (
+        <div className="flex flex-col gap-4 items-center section__margin">
+            <h1 className="text-3xl font-extrabold lg:text-4xl mt-20">Explore NFTs</h1>
+            <div className="flex justify-between mt-2 px-2 bg-[#16192a] border-2 border-[#2e3150] w-80 rounded-full text-xs md:w-90 lg:w-100">
+                <input type="text" name="search" id="search" placeholder="Search your items here..." className="w-full outline-0 p-4" />
+                <span className="flex items-center gap-2 px-4"><IoMdSearch size={28} /> </span>
+            </div>
+            <ul className="hidden flex-row font-light text-sm mt-2 sm:hidden md:gap-8 lg:flex xl:gap-14">
+                <li><Link to="/" className="no-underline hover:text-[var(--accent-color)]">All</Link></li>
+                <li><Link to="/marketplace" className="no-underline hover:text-[var(--accent-color)]">Wall Art</Link></li>
+                <li><a href="#artist" className="no-underline hover:text-[var(--accent-color)]">Game</a></li>
+                <li><a href="#community" className="no-underline hover:text-[var(--accent-color)]">Character</a></li>
+                <li><Link to="/marketplace" className="no-underline hover:text-[var(--accent-color)]">Art</Link></li>
+                <li><a href="#artist" className="no-underline hover:text-[var(--accent-color)]">Painting</a></li>
+                <li><a href="#community" className="no-underline hover:text-[var(--accent-color)]">Others</a></li>
+            </ul>
+            <NFTsCarousel items={info} />
+        </div>
+    )
+}
+
+export default Marketplace

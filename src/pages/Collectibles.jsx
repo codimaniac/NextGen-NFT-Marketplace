@@ -1,9 +1,11 @@
 import { CollectionsCarousel } from "../containers"
-import { collectionsDetails } from "./import"
+import { useGetData } from "../hooks/useFetch"
 
 const Collectibles = () => {
+  const [info] = useGetData('http://localhost:3000/Collections')
+
   return (
-    <CollectionsCarousel title="Our Collections" items={collectionsDetails}/>
+    <CollectionsCarousel title="Our Collections" items={info}/>
   )
 }
 

@@ -40,7 +40,7 @@ const About = () => {
                 </div>
             </div>
             <Stats /> 
-            <div className="flex flex-col gap-4 items-center pb-20 rounded-[10px]">
+            <div className="flex flex-col gap-4 items-center pb-20 rounded-[10px] bg-[url('/src/assets/discover-nfts-banner.jpg')] bg-cover bg-center bg-no-repeat">
                 <h2 className="text-3xl text-center font-black lg:text-4xl mt-20">Discover And Collect Best NFTs</h2>
                 <p className="text-xs text-center font-light leading-[183%] lg:mt-20">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, a dolor sequi omnis eaque eveniet exercitationem reprehenderit obcaecati impedit? Doloribus, error repellendus sit quod voluptate est.

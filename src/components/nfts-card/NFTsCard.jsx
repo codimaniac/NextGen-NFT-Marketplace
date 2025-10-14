@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import Button from "../button/Button"
 
 const NFTsCard = ({nft, name, price, creator, creator_pfp}) => {
@@ -13,7 +14,10 @@ const NFTsCard = ({nft, name, price, creator, creator_pfp}) => {
                 <img src={creator_pfp} alt={creator} className="w-8"/>
                 <span>{creator}</span>
             </div>
-            <Button className="gradient-lin-bg text-[var(--light-color)] rounded-[10px]">Buy It Now</Button>
+            <div className="flex items-center justify-between">
+              <button className="text-xs border-2 border-transparent gradient-lin-bg bg-clip-border cursor-pointer rounded-[10px]"><div className="bg-[var(--light-color)] w-full h-full py-[8px] px-[24px] rounded-[10px] md:py-[4px] md:px-[12px]"><Link to="/nft-details">View Details</Link></div></button>
+              <Button className="gradient-lin-bg text-xs text-[var(--light-color)] rounded-[10px]">Buy It Now</Button>
+            </div>
         </div>
     </div>
   )

@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import Button from "../button/Button"
 
 const CreatorCard = ({creator_name, creator_pfp}) => {
@@ -7,7 +8,7 @@ const CreatorCard = ({creator_name, creator_pfp}) => {
             <img src={creator_pfp} alt={creator_name} className="flex-1 rounded-[50%] w-35 h-35"/>
             <span className="mt-4">{creator_name}</span>
         </div>
-        <Button className="absolute left-1/2 top-full translate-[-50%] gradient-lin-bg rounded-[10px] w-max">View Details</Button>
+        <Button className="absolute left-1/2 top-full translate-[-50%] gradient-lin-bg rounded-[10px] w-max"><Link to='/creator-profile'>View Details</Link></Button>
     </div>
   )
 }

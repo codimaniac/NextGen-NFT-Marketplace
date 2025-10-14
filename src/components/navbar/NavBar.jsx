@@ -7,10 +7,10 @@ import { Link } from 'react-router-dom'
 const Menu = ({toggle}) => {
   return (
     <>
-      <li><Link to="/" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Home</Link></li>
-      <li><a href="#marketplace" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Marketplace</a></li>
-      <li><a href="#artist" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Artist</a></li>
-      <li><a href="#community" className="no-underline hover:text-[var(--secondary-color)]" onClick={toggle}>Community</a></li>
+      <li><Link to="/" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Home</Link></li>
+      <li><Link to="/marketplace" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Marketplace</Link></li>
+      <li><a href="#artist" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Artist</a></li>
+      <li><a href="#community" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Community</a></li>
     </>
   )
 }
@@ -19,10 +19,11 @@ const NavBar = () => {
   const [isNavOpen, setIsNavOpen] = useState(false)
   const toggleNav = () => {
     setIsNavOpen(!isNavOpen)
+    console.log("Clicked!")
   }
 
   return (
-    <nav className='flex flex-row items-center justify-between text-xs gap-4 md:text-xs xl:text-sm section__margin'>
+    <nav className='flex flex-row items-center justify-between text-xs gap-4 font-light md:text-xs xl:text-sm section__margin'>
         <Link to="/"><img src={Logo} alt="Logo" className='w-28 h-auto md:w-[7rem] xl:w-[10rem]' /></Link>
         <ul className="hidden flex-row sm:hidden md:gap-8 lg:flex xl:gap-14">
             <Menu />

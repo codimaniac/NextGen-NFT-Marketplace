@@ -1,9 +1,11 @@
 import { BlogCarousel } from "../containers"
-import { blogDetails } from "./import"
+import { useGetData } from "../hooks/useFetch"
 
 const Blog = () => {
+  const [info] = useGetData('http://localhost:3000/Blogs')
+
   return (
-    <BlogCarousel title="Our Blogs" items={blogDetails}/>
+    <BlogCarousel title="Our Blogs" items={info}/>
   )
 }
 

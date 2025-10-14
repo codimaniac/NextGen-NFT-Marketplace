@@ -1,9 +1,10 @@
 import { CreatorsCarousel } from "../containers"
-import { nftCreators } from "./import"
+import { useGetData } from "../hooks/useFetch"
 
 const TopCreators = () => {
+  const [info] = useGetData('http://localhost:3000/Creators')
   return (
-    <CreatorsCarousel title="Our Best Creators" items={nftCreators}/>
+    <CreatorsCarousel title="Our Best Creators" items={info}/>
   )
 }
 
