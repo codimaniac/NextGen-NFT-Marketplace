@@ -1,7 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
-import { About, Blog, ContactUs, CreatorProfile, Marketplace, FAQ, Homepage, Login, NotFound, Signup, TopCreators } from './pages'
+import { About, Blog, ContactUs, CreatorProfile, Marketplace, FAQ, Homepage, Login, NotFound, Signup, TopCreators, NFTDetail, Collectibles } from './pages'
 import { Layout } from './containers'
-import Collectibles from './pages/Collectibles'
 
 function App() {
 
@@ -16,7 +15,8 @@ function App() {
         <Route path='/blog' element={<Blog />} />
         <Route path='/top-creators' element={<TopCreators />} />
         <Route path='/collectibles' element={<Collectibles />} />
-        <Route path='/marketplace' element={<Marketplace />} />        
+        <Route path='/marketplace' element={<Marketplace />} />
+        <Route path='/nft/:id' element={<NFTDetail />} />      
         <Route path='/creator-profile' element={<CreatorProfile />} />
         <Route path='/faq' element={<FAQ />} />
         <Route path='*' element={<NotFound />} />

@@ -2,15 +2,18 @@ import { useState } from 'react'
 import Logo from '../../assets/logo.png'
 import Button from '../button/Button'
 import { RiCloseLine, RiMenu3Line } from 'react-icons/ri'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 
 const Menu = ({toggle}) => {
+  const location = useLocation()
+  const pathName = location.pathname
+
   return (
     <>
-      <li><Link to="/" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Home</Link></li>
-      <li><Link to="/marketplace" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Marketplace</Link></li>
-      <li><a href="#artist" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Artist</a></li>
-      <li><a href="#community" className="no-underline hover:text-[var(--accent-color)]" onClick={toggle}>Community</a></li>
+      <li><Link to="/" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`} onClick={toggle}>Home</Link></li>
+      <li><Link to="/marketplace" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/marketplace" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Marketplace</Link></li>
+      <li><a href="#artist" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/artist" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Artist</a></li>
+      <li><a href="#community" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/community" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Community</a></li>
     </>
   )
 }

@@ -27,7 +27,7 @@ const CreatorProfile = () => {
                 <span>Showing all 9 results</span>
                 <span className="flex items-center gap-2">Sort by latest <IoMdArrowDropdown /> </span>
             </div>
-            <NFTsCarousel items={info} />
+            <NFTsCarousel items={info} itemsPerSlide={8} />
         </div>
     )
 }

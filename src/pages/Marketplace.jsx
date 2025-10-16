@@ -22,7 +22,7 @@ const Marketplace = () => {
                 <li><a href="#artist" className="no-underline hover:text-[var(--accent-color)]">Painting</a></li>
                 <li><a href="#community" className="no-underline hover:text-[var(--accent-color)]">Others</a></li>
             </ul>
-            <NFTsCarousel items={info} />
+            <NFTsCarousel items={info} itemsPerSlide={8} />
         </div>
     )
 }
