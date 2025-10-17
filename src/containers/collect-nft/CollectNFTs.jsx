@@ -6,7 +6,7 @@ const CollectNFTs = ({title}) => {
     <div className="flex flex-col items-center section__margin gap-8" id="marketplace">
         <h2 className="text-3xl font-extrabold lg:text-4xl mt-20">{title}</h2>
         <div className="flex w-full overflow-x-clip">
-            <div className="flex gap-8 animat-slide">
+            <div className="flex gap-8 animate-slide">
                 {
                     nftDetails.map((nftDetail, id) => {
                         return (

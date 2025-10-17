@@ -29,7 +29,6 @@ html, body {
 
 .section__margin {
   margin: 1rem 6.5vw;
-  z-index: 3;
 }
 
 .gradient-rad-bg {

@@ -1,11 +1,43 @@
-import { Link, useParams } from "react-router-dom"
+import { Link, Route, Routes, useParams, useResolvedPath } from "react-router-dom"
 import { useGetData } from "../hooks/useFetch"
 import { CollectNFTs } from "../containers"
 import { IoMdShare } from "react-icons/io"
 import { Button } from "../components"
 
+const ProductDescription = ({full_desc}) => {
+    return (
+        <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
+            <div className="">Product Description</div>
+            <div>{full_desc}</div>
+        </div>
+    )
+}
+
+const AdditionalInfo = ({full_desc}) => {
+    return (
+        <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
+            <div className="">Additional Info</div>
+            <div>{full_desc}</div>
+        </div>
+    )
+}
+
+const Review = ({full_desc}) => {
+    return (
+        <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
+            <div className="">Review</div>
+            <div>{full_desc}</div>
+        </div>
+    )
+}
+
 const NFTDetail = () => {
     const {id} = useParams()
+    const basePath = `/nft/${id}`
+    const path = useResolvedPath("").pathname
+
+    console.log(path)
+     
     const [info] = useGetData(`http://localhost:3000/NFTs/${id}`)
 
     return (
@@ -45,14 +77,15 @@ const NFTDetail = () => {
             </div>
             <div className="flex flex-col items-center gap-4 section__margin">                
                 <ul className="flex flex-row justify-between w-full font-bold text-[var(--light-purple)] text-sm mt-2 md:justify-center md:gap-8 xl:gap-14">
-                    <li><Link to="/" className="no-underline text-[var(--light-color)] hover:text-[var(--accent-color)]">Details</Link></li>
-                    <li><Link to="/marketplace" className="no-underline hover:text-[var(--accent-color)]">Additional Information</Link></li>
-                    <li><a href="#artist" className="no-underline hover:text-[var(--accent-color)]">Review ({info.review?.length})</a></li>
+                    <li><Link to={basePath} className={`${path==`/nft/${id}` ? 'text-[var(--light-color)]' : ''} no-underline hover:text-[var(--accent-color)]`}>Details</Link></li>
+                    <li><Link to={`${basePath}/additional-info`} className={`${path==`/nft/${id}/additional-info` ? 'text-[var(--light-color)]' : ''} no-underline hover:text-[var(--accent-color)]`}>Additional Information</Link></li>
+                    <li><Link to={`${basePath}/review`} className={`${path==`/nft/${id}/review` ? 'text-[var(--light-color)]' : ''} no-underline hover:text-[var(--accent-color)]`}>Review ({info.review?.length})</Link></li>
                 </ul>
-                <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
-                    <div className="">Product Description </div>
-                    <div>{info.full_desc}</div>
-                </div>
+                <Routes>
+                    <Route index element={<ProductDescription full_desc={info.full_desc}/>} />
+                    <Route path="additional-info" element={<AdditionalInfo full_desc={info.full_desc}/>} />
+                    <Route path="review" element={<Review full_desc={info.full_desc}/>} />
+                </Routes>
             </div>
             <CollectNFTs title="Related NFTs" />
         </>
