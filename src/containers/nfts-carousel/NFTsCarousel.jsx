@@ -7,7 +7,7 @@ const NFTsCarousel = ({items, itemsPerSlide}) => {
   
      return (
       <>
-        <div className="flex flex-col justify-center gap-x-4 gap-y-32 mt-2 lg:flex-row lg:flex-wrap">
+        <div className="flex flex-col gap-x-4 gap-y-32 mt-2 lg:flex-row lg:flex-wrap">
           {
               currentSlide.map((item) => {
                   return (
