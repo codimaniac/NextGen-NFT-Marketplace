@@ -2,7 +2,7 @@ import { BlogCarousel } from "../containers"
 import { useGetData } from "../hooks/useFetch"
 
 const Blog = () => {
-  const [info, isLoading, isError] = useGetData('http://localhost:3000/Blogs')
+  const [Blogs, isLoading, isError] = useGetData('http://localhost:3000/Blogs')
 
   if (isLoading) {
       return (
@@ -21,7 +21,7 @@ const Blog = () => {
   }
 
   return (
-    <BlogCarousel title="Our Blogs" items={info}/>
+    <BlogCarousel title="Our Blogs" items={Blogs}/>
   )
 }
 

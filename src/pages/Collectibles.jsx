@@ -2,7 +2,7 @@ import { CollectionsCarousel } from "../containers"
 import { useGetData } from "../hooks/useFetch"
 
 const Collectibles = () => {
-  const [info, isLoading, isError] = useGetData('http://localhost:3000/Collections')
+  const [collections, isLoading, isError] = useGetData('http://localhost:3000/Collections')
 
   if (isLoading) {
       return (
@@ -21,7 +21,7 @@ const Collectibles = () => {
   }
 
   return (
-    <CollectionsCarousel title="Our Collections" items={info}/>
+    <CollectionsCarousel title="Our Collections" items={collections}/>
   )
 }
 

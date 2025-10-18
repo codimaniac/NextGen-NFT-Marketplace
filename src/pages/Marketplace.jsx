@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import { IoMdSearch } from "react-icons/io"
 
 const Marketplace = () => {
-    const [info, isLoading, isError] = useGetData('http://localhost:3000/NFTs')
+    const [nfts, isLoading, isError] = useGetData('http://localhost:3000/NFTs')
 
     if (isLoading) {
         return (
@@ -38,7 +38,7 @@ const Marketplace = () => {
                 <li><a href="#artist" className="no-underline hover:text-[var(--accent-color)]">Painting</a></li>
                 <li><a href="#community" className="no-underline hover:text-[var(--accent-color)]">Others</a></li>
             </ul>
-            <NFTsCarousel items={info} itemsPerSlide={8} />
+            <NFTsCarousel items={nfts} itemsPerSlide={8} />
         </div>
     )
 }

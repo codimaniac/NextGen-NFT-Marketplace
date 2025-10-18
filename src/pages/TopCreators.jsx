@@ -2,7 +2,7 @@ import { CreatorsCarousel } from "../containers"
 import { useGetData } from "../hooks/useFetch"
 
 const TopCreators = () => {
-  const [info, isLoading, isError] = useGetData('http://localhost:3000/Creators')
+  const [creators, isLoading, isError] = useGetData('http://localhost:3000/Creators')
 
   if (isLoading) {
       return (
@@ -20,7 +20,7 @@ const TopCreators = () => {
       )
   }
   return (
-    <CreatorsCarousel title="Our Best Creators" items={info}/>
+    <CreatorsCarousel title="Our Best Creators" items={creators}/>
   )
 }
 
