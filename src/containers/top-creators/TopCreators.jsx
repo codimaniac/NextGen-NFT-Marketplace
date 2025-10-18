@@ -12,7 +12,7 @@ const TopCreators = () => {
             {
                 nftCreators.map((nftCreator, id) => {
                     return (
-                        <CreatorCard key={id} creator_name={nftCreator.creator_name} creator_pfp={nftCreator.creator_pfp}/>
+                        <CreatorCard key={id} id={nftCreator.id} creator_name={nftCreator.creator_name} creator_pfp={nftCreator.creator_pfp}/>
                     )
                 })
             }

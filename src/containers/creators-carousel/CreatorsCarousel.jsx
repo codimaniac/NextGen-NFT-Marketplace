@@ -15,9 +15,9 @@ const CreatorsCarousel = ({title, items}) => {
       </div>
       <div className="flex flex-wrap items-center justify-center gap-x-3 gap-y-16 w-full lg:flex-row">
         {
-            currentSlide.map((item, id) => {
+            currentSlide.map((item) => {
                 return (
-                    <CreatorCard key={id} creator_name={item.creator_name} creator_pfp={item.creator_pfp}/>
+                    <CreatorCard key={item.id} id={item.id} creator_name={item.creator_name} creator_pfp={item.creator_pfp}/>
                 )
             })
         }

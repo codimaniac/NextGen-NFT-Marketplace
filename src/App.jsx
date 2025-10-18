@@ -17,9 +17,9 @@ function App() {
         <Route path='/collectibles' element={<Collectibles />} />
         <Route path='/marketplace' element={<Marketplace />} />
         <Route path='/nft/:id/*' element={<NFTDetail />} />      
-        <Route path='/creator-profile' element={<CreatorProfile />} />
+        <Route path='/creator-profile/:id' element={<CreatorProfile />} />
         <Route path='/faq' element={<FAQ />} />
-        <Route path='*' element={<NotFound />} />
+        <Route element={<NotFound />} />
       </Route>
     </Routes>
   )

@@ -34,11 +34,28 @@ const Review = ({full_desc}) => {
 const NFTDetail = () => {
     const {id} = useParams()
     const basePath = `/nft/${id}`
+    const BASE_URL = "http://localhost:3000"
     const path = useResolvedPath("").pathname
 
     console.log(path)
      
-    const [info] = useGetData(`http://localhost:3000/NFTs/${id}`)
+    const [info, isLoading, isError] = useGetData(`http://localhost:3000/NFTs/${id}`)
+
+    if (isLoading) {
+        return (
+            <div className="flex items-center justify-center !mt-20 section__margin">
+                <div className="loader"></div>
+            </div>
+        )
+    }
+
+    if (isError) {
+        return (
+            <div className="flex items-center justify-center !mt-20 section__margin">
+                <span className="text-2xl font-bold">{isError}</span>
+            </div>
+        )
+    }
 
     return (
         <>

@@ -4,7 +4,23 @@ import { Link } from "react-router-dom"
 import { IoMdSearch } from "react-icons/io"
 
 const Marketplace = () => {
-    const [info] = useGetData('http://localhost:3000/NFTs')
+    const [info, isLoading, isError] = useGetData('http://localhost:3000/NFTs')
+
+    if (isLoading) {
+        return (
+            <div className="flex items-center justify-center !mt-20 section__margin">
+                <div className="loader"></div>
+            </div>
+        )
+    }
+
+    if (isError) {
+        return (
+            <div className="flex items-center justify-center !mt-20 section__margin">
+                <span className="text-2xl font-bold">{isError}</span>
+            </div>
+        )
+    }
     
     return (
         <div className="flex flex-col gap-4 items-center section__margin">
