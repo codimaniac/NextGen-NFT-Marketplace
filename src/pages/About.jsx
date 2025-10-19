@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import AboutBanner from "../assets/about-banner.png"
 import { Button } from "../components"
 import { LatestBlog, Stats } from "../containers"
@@ -46,8 +47,8 @@ const About = () => {
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, a dolor sequi omnis eaque eveniet exercitationem reprehenderit obcaecati impedit? Doloribus, error repellendus sit quod voluptate est.
                 </p>
                 <div className="flex gap-4">
-                    <Button className="gradient-lin-bg">Explore NFTs</Button>
-                    <button className="border-2 border-transparent gradient-lin-bg bg-clip-border cursor-pointer"><div className="bg-[var(--primary-color)] w-full h-full pt-[8px] pb-[8px] pl-[24px] pr-[24px] md:pt-[4px] md:pb-[4px] md:pl-[12px] md:pr-[12px]">Contact Us</div></button>
+                    <Button className="gradient-lin-bg"><Link to="/marketplace">Explore NFTs</Link></Button>
+                    <button className="border-2 border-transparent gradient-lin-bg bg-clip-border cursor-pointer"><div className="bg-[var(--primary-color)] w-full h-full pt-[8px] pb-[8px] pl-[24px] pr-[24px] md:pt-[4px] md:pb-[4px] md:pl-[12px] md:pr-[12px]"><Link to="/support">Contact Us</Link ></div></button>
                 </div>
             </div>
         </div>
