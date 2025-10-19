@@ -7,25 +7,25 @@ import GlamPFP from '../../assets/glam-lee-pfp.png'
 
 const nftDetails = [
     {
-        "nft": "../src/assets/hard-breath.png",
+        "nft": HardBreath,
         "name": "Hard Breath",
         "price": 0.22,
         "creator": "Glam Lee",
-        "creator_pfp": "../src/assets/glam-lee-pfp.png"
+        "creator_pfp": GlamPFP
     },
     {
-        "nft": "../src/assets/lighting-axe.png",
+        "nft": LightingAxe,
         "name": "Lighting Axe",
         "price": 0.36,
         "creator": "Loura Chin",
-        "creator_pfp": "../src/assets/loura-chin-pfp.png"
+        "creator_pfp": LouraPFP
     },
     {
-        "nft": "../src/assets/skeleton-head.png",
+        "nft": SkeletonHead,
         "name": "Skeleton Head",
         "price": 0.29,
         "creator": "Kelvin Glan",
-        "creator_pfp": "../src/assets/kelvin-glan-pfp.png"
+        "creator_pfp": KelvinPFP
     },
     {
         "nft": HardBreath,
