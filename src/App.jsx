@@ -19,7 +19,7 @@ function App() {
         <Route path='/nft/:id/*' element={<NFTDetail />} />      
         <Route path='/creator-profile/:id' element={<CreatorProfile />} />
         <Route path='/faq' element={<FAQ />} />
-        <Route element={<NotFound />} />
+        <Route path='*' element={<NotFound />} />
       </Route>
     </Routes>
   )
