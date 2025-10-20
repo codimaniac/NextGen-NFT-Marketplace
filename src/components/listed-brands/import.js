@@ -1,8 +1,8 @@
-import ListedBrand1 from "../../assets/Listed-In-1.png";
-import ListedBrand2 from "../../assets/Listed-In-2.png";
-import ListedBrand3 from "../../assets/Listed-In-3.png";
-import ListedBrand4 from "../../assets/Listed-In-4.png";
-import ListedBrand5 from "../../assets/Listed-In-5.png";
+import ListedBrand1 from "/public/images/Listed-In-1.png";
+import ListedBrand2 from "/public/images/Listed-In-2.png";
+import ListedBrand3 from "/public/images/Listed-In-3.png";
+import ListedBrand4 from "/public/images/Listed-In-4.png";
+import ListedBrand5 from "/public/images/Listed-In-5.png";
 
 
 export {

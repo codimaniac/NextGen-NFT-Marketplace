@@ -1,7 +1,7 @@
-import BlogImgOne from '../../assets/blog-1.png'
-import BlogImgTwo from '../../assets/blog-2.png'
-import BlogImgThree from '../../assets/blog-3.png'
-import BlogImgFour from '../../assets/blog-4.png'
+import BlogImgOne from '/public/images/blog-1.png'
+import BlogImgTwo from '/public/images/blog-2.png'
+import BlogImgThree from '/public/images/blog-3.png'
+import BlogImgFour from '/public/images/blog-4.png'
 
 const blogDetails = [
     {

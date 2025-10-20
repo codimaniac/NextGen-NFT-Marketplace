@@ -1,7 +1,7 @@
-import LouraPFP from '../../assets/loura-chin-pfp.png'
-import KelvinPFP from '../../assets/kelvin-glan-pfp.png'
-import GlamPFP from '../../assets/glam-lee-pfp.png'
-import AlamedaPFP from '../../assets/alameda-pfp.png'
+import LouraPFP from '/public/images/loura-chin-pfp.png'
+import KelvinPFP from '/public/images/kelvin-glan-pfp.png'
+import GlamPFP from '/public/images/glam-lee-pfp.png'
+import AlamedaPFP from '/public/images/alameda-pfp.png'
 
 const nftCreators = [
     {
