@@ -1,9 +1,9 @@
-import LightingAxe from '/public/images/lighting-axe.png'
-import LouraPFP from '/public/images/loura-chin-pfp.png'
-import SkeletonHead from '/public/images/skeleton-head.png'
-import KelvinPFP from '/public/images/kelvin-glan-pfp.png'
-import HardBreath from '/public/images/hard-breath.png'
-import GlamPFP from '/public/images/glam-lee-pfp.png'
+import LightingAxe from '/images/lighting-axe.png'
+import LouraPFP from '/images/loura-chin-pfp.png'
+import SkeletonHead from '/images/skeleton-head.png'
+import KelvinPFP from '/images/kelvin-glan-pfp.png'
+import HardBreath from '/images/hard-breath.png'
+import GlamPFP from '/images/glam-lee-pfp.png'
 
 const nftDetails = [
     {

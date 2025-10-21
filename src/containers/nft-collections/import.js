@@ -1,7 +1,7 @@
-import CollectionsOne from '/public/images/collections-1.png'
-import CollectionsTwo from '/public/images/collections-2.png'
-import CollectionsThree from '/public/images/collections-3.png'
-import CollectionsFour from '/public/images/collections-4.png'
+import CollectionsOne from '/images/collections-1.png'
+import CollectionsTwo from '/images/collections-2.png'
+import CollectionsThree from '/images/collections-3.png'
+import CollectionsFour from '/images/collections-4.png'
 
 const collectionsDetails = [
     {
