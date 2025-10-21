@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 export function useGetData (url) {
-    const [info, setInfo] = useState([])
+    const [retrivedData, setRetrivedData] = useState([])
     const [isLoading, setIsLoading] = useState(true)
     const [isError, setIsError] = useState(null)
 
@@ -17,7 +17,7 @@ export function useGetData (url) {
                 } else {
                     const data = await response.json()
 
-                    setInfo(data)
+                    setRetrivedData(data)
                     setIsLoading(false)
                 }
             } catch (error) {
@@ -28,7 +28,7 @@ export function useGetData (url) {
         }
 
         getData()
-    }, [info, isLoading, isError])
+    }, [retrivedData, isLoading, isError])
     
-    return [info, isLoading, isError]
+    return [retrivedData, isLoading, isError]
 }

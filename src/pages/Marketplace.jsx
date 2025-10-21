@@ -2,6 +2,7 @@ import { NFTsCarousel } from "../containers"
 import { useGetData } from "../hooks/useFetch"
 import { Link } from "react-router-dom"
 import { IoMdSearch } from "react-icons/io"
+import { Button } from "../components"
 
 const Marketplace = () => {
     const [nfts, isLoading, isError] = useGetData('http://localhost:3000/NFTs')
@@ -16,8 +17,12 @@ const Marketplace = () => {
 
     if (isError) {
         return (
-            <div className="flex items-center justify-center !mt-20 section__margin">
-                <span className="text-2xl font-bold">{isError}</span>
+            <div className="flex flex-col gap-4 items-center justify-center rounded-[10px] bg-[#16192a] border-2 border-[#2e3150] h-auto p-12 section__margin">
+                <p className="text-2xl lg:text-4xl">{isError}!</p>
+                <p className="text-[var(--lighter-color)] text-[10px] text-center font-light leading-[183%]">
+                    Server not accessible. Please try again later.
+                </p>
+                <Button className="gradient-lin-bg"><Link to="/">Go Back to Home</Link></Button>
             </div>
         )
     }

@@ -48,6 +48,20 @@ const nftDetails = [
         "creator": "Kelvin Glan",
         "creator_pfp": KelvinPFP
     },
+    {
+        "nft": HardBreath,
+        "name": "Hard Breath",
+        "price": 0.22,
+        "creator": "Glam Lee",
+        "creator_pfp": GlamPFP
+    },
+    {
+        "nft": LightingAxe,
+        "name": "Lighting Axe",
+        "price": 0.36,
+        "creator": "Loura Chin",
+        "creator_pfp": LouraPFP
+    },
 ]
 
 export {nftDetails}

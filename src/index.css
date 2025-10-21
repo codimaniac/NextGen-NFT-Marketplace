@@ -154,7 +154,7 @@ html, body {
         transform: translateX(0);
     }
     100% {
-        transform: translateX(-830px);
+        transform: translateX(-846px);
     }
 }
 
