@@ -1,12 +1,16 @@
 import { MdOutlineChevronLeft, MdOutlineChevronRight } from "react-icons/md"
 import { useCarousel } from "../../hooks/useCarousel"
-import { NFTsCard } from "../../components"
+import { Button, NFTsCard } from "../../components"
+import { Link } from "react-router-dom"
 
 const NFTsCarousel = ({items, itemsPerSlide}) => {
   const [currentPage, currentSlide, slidePageNumbers, prevPage, nextPage] = useCarousel(items, itemsPerSlide)
      if (items.length == 0) {
       return (
-        <div className="">No Item Available</div>
+        <div className="flex flex-col gap-4 w-full h-full items-center justify-center rounded-[10px] bg-[#16192a] border-2 border-[#2e3150] p-20 section__margin">
+          <h3 className="text-[var(--lighter-color)] text-2xl text-center font-light leading-[183%]">There are no items to display</h3>
+          <Button className="gradient-lin-bg"><Link to="/">Go Back to Home</Link></Button>
+        </div>
       )
      }
   
