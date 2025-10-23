@@ -2,13 +2,15 @@ import { NFTsCard } from "../../components"
 import { nftDetails } from "./import"
 
 const CollectNFTs = ({title}) => {
+  const duplicateNFT = nftDetails.slice(0,4)
+  const nfts = nftDetails.concat(duplicateNFT)
   return (
     <div className="flex flex-col items-center section__margin gap-8" id="marketplace">
         <h2 className="text-3xl font-extrabold lg:text-4xl mt-20">{title}</h2>
         <div className="flex w-full overflow-x-clip">
             <div className="flex gap-8 animate-slide">
                 {
-                    nftDetails.map((nftDetail, id) => {
+                    nfts.map((nftDetail, id) => {
                         return (
                             <NFTsCard key={id} nft={nftDetail.nft} name={nftDetail.name} price={nftDetail.price} creator={nftDetail.creator} creator_pfp={nftDetail.creator_pfp}/>
                         )

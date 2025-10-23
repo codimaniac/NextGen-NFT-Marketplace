@@ -28,7 +28,7 @@ export function useGetData (url) {
         }
 
         getData()
-    }, [retrivedData, isLoading, isError])
+    }, [])
     
     return [retrivedData, isLoading, isError]
 }

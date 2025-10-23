@@ -12,8 +12,8 @@ const Menu = ({toggle}) => {
     <>
       <li><Link to="/" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`} onClick={toggle}>Home</Link></li>
       <li><Link to="/marketplace" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/marketplace" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Marketplace</Link></li>
-      <li><a href="#artist" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/artist" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Artist</a></li>
-      <li><a href="#community" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/community" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Community</a></li>
+      <li><Link to="/artist" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/artist" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Artist</Link></li>
+      <li><Link to="/community" className={`relative no-underline hover:text-[var(--accent-color)] ${pathName=="/community" ? "after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:rounded-[50%] after:bg-[#2e3150]" : null}`}  onClick={toggle}>Community</Link></li>
     </>
   )
 }

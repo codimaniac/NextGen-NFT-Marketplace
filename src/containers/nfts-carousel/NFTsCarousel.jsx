@@ -4,6 +4,11 @@ import { NFTsCard } from "../../components"
 
 const NFTsCarousel = ({items, itemsPerSlide}) => {
   const [currentPage, currentSlide, slidePageNumbers, prevPage, nextPage] = useCarousel(items, itemsPerSlide)
+     if (items.length == 0) {
+      return (
+        <div className="">No Item Available</div>
+      )
+     }
   
      return (
       <>

@@ -4,7 +4,9 @@ import { BlogCarousel } from "../containers"
 import { useGetData } from "../hooks/useFetch"
 
 const Blog = () => {
-  const [Blogs, isLoading, isError] = useGetData('http://localhost:3000/Blogs')
+  const db_url = import.meta.env.VITE_DB_URL
+  const [data, isLoading, isError] = useGetData(`/data/db.json`)
+  const Blogs = data.Blogs
 
   if (isLoading) {
       return (
@@ -17,7 +19,7 @@ const Blog = () => {
   if (isError) {
       return (
         <div className="flex flex-col gap-4 items-center justify-center rounded-[10px] bg-[#16192a] border-2 border-[#2e3150] h-auto p-12 section__margin">
-            <p className="text-2xl lg:text-4xl">{isError}!</p>
+            <p className="text-2xl lg:text-4xl">{isError}</p>
             <p className="text-[var(--lighter-color)] text-[10px] text-center font-light leading-[183%]">
                 Server not accessible. Please try again later.
             </p>

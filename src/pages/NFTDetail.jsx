@@ -34,10 +34,7 @@ const Review = ({full_desc}) => {
 const NFTDetail = () => {
     const {id} = useParams()
     const basePath = `/nft/${id}`
-    const BASE_URL = "http://localhost:3000"
     const path = useResolvedPath("").pathname
-
-    console.log(path)
      
     const [nft, isLoading, isError] = useGetData(`http://localhost:3000/NFTs/${id}`)
 
@@ -52,7 +49,7 @@ const NFTDetail = () => {
     if (isError) {
         return (
             <div className="flex flex-col gap-4 items-center justify-center rounded-[10px] bg-[#16192a] border-2 border-[#2e3150] h-auto p-12 section__margin">
-                <p className="text-2xl lg:text-4xl">{isError}!</p>
+                <p className="text-2xl lg:text-4xl">{isError}</p>
                 <p className="text-[var(--lighter-color)] text-[10px] text-center font-light leading-[183%]">
                     Server not accessible. Please try again later.
                 </p>
@@ -66,7 +63,7 @@ const NFTDetail = () => {
             <div className="flex flex-col gap-8 items-center section__margin">
                 <h1 className="text-3xl font-extrabold lg:text-4xl mt-20">Item Details</h1>                
                 <div className="flex flex-col w-full gap-12 lg:flex-row">
-                    <img src={nft.nft} alt={nft.name} className="w-full h-auto flex-1 lg:w-1/2"/>
+                    <div className=" flex-1 h-158 lg:w-1/2 overflow-hidden"><img src={nft.nft} alt={nft.name} className="w-full h-full object-cover object-center"/></div>
                     <div className="flex flex-col flex-1">
                         <div className="flex items-center justify-between">
                             <h2 className="text-2xl font-extrabold lg:text-3xl">{nft.name}</h2>

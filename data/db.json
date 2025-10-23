@@ -1,463 +1,578 @@
 {
-    "NFTs": [
-        {
-            "id": "824994744563658100",
-            "nft": "/images/hard-breath.png",
-            "name": "Hard Breath",
-            "price": 0.22,
-            "creator": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "590806893772692600",
-            "nft": "/images/lighting-axe.png",
-            "name": "Lighting Axe",
-            "price": 0.36,
-            "creator": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "122296082914254051",
-            "nft": "/images/skeleton-head.png",
-            "name": "Skeleton Head",
-            "price": 0.29,
-            "creator": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },{
-            "id": "824994744563658180",
-            "nft": "/images/hard-breath.png",
-            "name": "Hard Breath",
-            "price": 0.22,
-            "creator": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "590806193772692700",
-            "nft": "/images/lighting-axe.png",
-            "name": "Lighting Axe",
-            "price": 0.36,
-            "creator": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "128296082914254050",
-            "nft": "/images/skeleton-head.png",
-            "name": "Skeleton Head",
-            "price": 0.29,
-            "creator": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },{
-            "id": "824694744563658100",
-            "nft": "/images/hard-breath.png",
-            "name": "Hard Breath",
-            "price": 0.22,
-            "creator": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "590846893772692700",
-            "nft": "/images/lighting-axe.png",
-            "name": "Lighting Axe",
-            "price": 0.36,
-            "creator": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "122196082914254050",
-            "nft": "/images/skeleton-head.png",
-            "name": "Skeleton Head",
-            "price": 0.29,
-            "creator": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },{
-            "id": "824994744563158100",
-            "nft": "/images/hard-breath.png",
-            "name": "Hard Breath",
-            "price": 0.22,
-            "creator": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "590806893772592700",
-            "nft": "/images/lighting-axe.png",
-            "name": "Lighting Axe",
-            "price": 0.36,
-            "creator": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "122296081914254050",
-            "nft": "/images/skeleton-head.png",
-            "name": "Skeleton Head",
-            "price": 0.29,
-            "creator": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },{
-            "id": "824994744863658100",
-            "nft": "/images/hard-breath.png",
-            "name": "Hard Breath",
-            "price": 0.22,
-            "creator": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "590806893872692700",
-            "nft": "/images/lighting-axe.png",
-            "name": "Lighting Axe",
-            "price": 0.36,
-            "creator": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        },
-        {
-            "id": "122296082214254050",
-            "nft": "/images/skeleton-head.png",
-            "name": "Skeleton Head",
-            "price": 0.29,
-            "creator": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png",
-            "owner": "Kelvin Glan",
-            "owner_pfp": "/images/kelvin-glan-pfp.png",
-            "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-            "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-            "collections": ["Wall art", "Game", "Character"],
-            "additional_info": [],
-            "review": []
-        }
-    ],
-    "Collections": [
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-1.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-2.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-3.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-4.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-1.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-2.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-3.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-4.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-2.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-3.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-4.png"
-        },
-        {
-            "name": "Broken Collections",
-            "image": "/images/collections-1.png"
-        }
-    ],
-    "Creators": [
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        },
-        {
-            "creator_name": "Glam Lee",
-            "creator_pfp": "/images/glam-lee-pfp.png"
-        },
-        {
-            "creator_name": "Alameda",
-            "creator_pfp": "/images/alameda-pfp.png"
-        },
-        {
-            "creator_name": "Loura Chin",
-            "creator_pfp": "/images/loura-chin-pfp.png"
-        },
-        {
-            "creator_name": "Kelvin Glan",
-            "creator_pfp": "/images/kelvin-glan-pfp.png"
-        }
-    ],
-    "Blogs": [
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "Arts",
-            "image": "/images/blog-1.png"
-        },
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "Design",
-            "image": "/images/blog-2.png"
-        },
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "NFTs",
-            "image": "/images/blog-3.png"
-        },
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "Arts",
-            "image": "/images/blog-4.png"
-        },
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "Arts",
-            "image": "/images/blog-1.png"
-        },
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "Design",
-            "image": "/images/blog-2.png"
-        },
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "NFTs",
-            "image": "/images/blog-3.png"
-        },
-        {
-            "title": "Best NFTs Arts Collections From Best Artists ",
-            "category": "Arts",
-            "image": "/images/blog-4.png"
-        }
-    ]
+  "NFTs": [
+    {
+      "id": "824994744563658100",
+      "nft": "/images/hard-breath.png",
+      "name": "Hard Breath",
+      "price": 0.22,
+      "creator": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Art"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "590806893772692600",
+      "nft": "/images/lighting-axe.png",
+      "name": "Lighting Axe",
+      "price": 0.36,
+      "creator": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "122296082984254051",
+      "nft": "/images/skeleton-head.png",
+      "name": "Skeleton Head",
+      "price": 0.29,
+      "creator": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824994744563658180",
+      "nft": "/images/flaming-heart.png",
+      "name": "Flaming Heart",
+      "price": 0.28,
+      "creator": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824994744513658100",
+      "nft": "/images/steel-3d.png",
+      "name": "Steel 3D",
+      "price": 0.29,
+      "creator": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "590896893772692600",
+      "nft": "/images/leaf-sculpture.png",
+      "name": "Leaf Sculpture",
+      "price": 0.51,
+      "creator": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "125296082914254051",
+      "nft": "/images/reflection-portal.png",
+      "name": "Glass Portal",
+      "price": 0.39,
+      "creator": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824994744523658187",
+      "nft": "/images/life-chemistry.png",
+      "name": "Life Chemistry",
+      "price": 0.30,
+      "creator": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824994734563658100",
+      "nft": "/images/steel-art.png",
+      "name": "Steel Art",
+      "price": 0.20,
+      "creator": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "590806893772692660",
+      "nft": "/images/abstract-art.png",
+      "name": "Abstract Art",
+      "price": 0.35,
+      "creator": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "122996082914254051",
+      "nft": "/images/faceless.png",
+      "name": "Faceless",
+      "price": 0.95,
+      "creator": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824094744563658180",
+      "nft": "/images/marble-david.png",
+      "name": "Marble David",
+      "price": 0.72,
+      "creator": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824994754563658100",
+      "nft": "/images/broken.png",
+      "name": "Broken",
+      "price": 1.20,
+      "creator": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "590807893772692600",
+      "nft": "/images/splashed-face.png",
+      "name": "Splashed Face",
+      "price": 0.65,
+      "creator": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "122296082914254051",
+      "nft": "/images/lonely-tree.png",
+      "name": "Lonely Tree",
+      "price": 0.29,
+      "creator": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824994744463658180",
+      "nft": "/images/flexible-plex.png",
+      "name": "Flexible Plex",
+      "price": 0.52,
+      "creator": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824995744563658110",
+      "nft": "/images/pixel-monalisa.png",
+      "name": "Pixel Monalisa",
+      "price": 0.85,
+      "creator": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "590876893772692670",
+      "nft": "/images/flowery-sculpture.png",
+      "name": "Flowery Sculpture",
+      "price": 1.30,
+      "creator": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "158296082914254051",
+      "nft": "/images/sunset-deer.png",
+      "name": "Sunset Deer",
+      "price": 1.10,
+      "creator": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    },
+    {
+      "id": "824993734563658180",
+      "nft": "/images/digital-david-head.png",
+      "name": "David Head",
+      "price": 0.22,
+      "creator": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png",
+      "owner": "Kelvin Glan",
+      "owner_pfp": "/images/kelvin-glan-pfp.png",
+      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
+      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "collections": ["Wall art", "Game", "Character"],
+      "additional_info": [],
+      "review": []
+    }
+  ],
+  "Collections": [
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-1.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-2.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-3.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-4.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-1.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-2.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-3.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-4.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-2.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-3.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-4.png"
+    },
+    {
+      "name": "Broken Collections",
+      "image": "/images/collections-1.png"
+    }
+  ],
+  "Creators": [
+    {
+      "id": "c331",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "0877",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "783c",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "b423",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "aeb1",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "6adc",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "3046",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "2f43",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "c8d8",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "eebc",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "00b3",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "3b93",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "89b4",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "0f56",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "c6ff",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "01ad",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "4401",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "9995",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "598f",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "238e",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "02f3",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "b8eb",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "6d53",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "c9f6",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "d023",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "2017",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "5695",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "b81c",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "b7c0",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "43c1",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "3d8b",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "dd72",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    },
+    {
+      "id": "9202",
+      "creator_name": "Glam Lee",
+      "creator_pfp": "/images/glam-lee-pfp.png"
+    },
+    {
+      "id": "2678",
+      "creator_name": "Alameda",
+      "creator_pfp": "/images/alameda-pfp.png"
+    },
+    {
+      "id": "8f93",
+      "creator_name": "Loura Chin",
+      "creator_pfp": "/images/loura-chin-pfp.png"
+    },
+    {
+      "id": "e682",
+      "creator_name": "Kelvin Glan",
+      "creator_pfp": "/images/kelvin-glan-pfp.png"
+    }
+  ],
+  "Blogs": [
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "Arts",
+      "image": "/images/blog-1.png"
+    },
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "Design",
+      "image": "/images/blog-2.png"
+    },
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "NFTs",
+      "image": "/images/blog-3.png"
+    },
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "Arts",
+      "image": "/images/blog-4.png"
+    },
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "Arts",
+      "image": "/images/blog-1.png"
+    },
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "Design",
+      "image": "/images/blog-2.png"
+    },
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "NFTs",
+      "image": "/images/blog-3.png"
+    },
+    {
+      "title": "Best NFTs Arts Collections From Best Artists ",
+      "category": "Arts",
+      "image": "/images/blog-4.png"
+    }
+  ]
 }

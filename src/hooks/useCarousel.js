@@ -22,7 +22,6 @@ export function useCarousel (items, itemPerSlide) {
     useEffect(() => {
         setSlideLength(Math.ceil(items.length / itemPerSlide))
         setCurrentSlide(items.slice(firstIndex, lastIndex))
-        console.log(currentSlide)
     }, [items, currentPage])
     
     const prevPage = () => {
