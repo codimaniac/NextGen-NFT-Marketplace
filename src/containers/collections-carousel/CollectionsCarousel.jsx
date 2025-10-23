@@ -13,7 +13,7 @@ const CollectionsCarousel = ({title, items}) => {
         <span>Showing all 9 results</span>
         <span className="flex items-center gap-2">Sort by latest <IoMdArrowDropdown /> </span>
       </div> */}
-      <div className="flex flex-col gap-4 lg:flex-row lg:flex-wrap">
+      <div className="flex flex-col w-full gap-4 lg:flex-row lg:flex-wrap">
         {
             currentSlide.map((item, id) => {
                 return (
