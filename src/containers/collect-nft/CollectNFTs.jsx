@@ -10,9 +10,9 @@ const CollectNFTs = ({title}) => {
         <div className="flex w-full overflow-x-clip">
             <div className="flex gap-8 animate-slide">
                 {
-                    nfts.map((nftDetail, id) => {
+                    nfts.map((nftDetail) => {
                         return (
-                            <NFTsCard key={id} nft={nftDetail.nft} name={nftDetail.name} price={nftDetail.price} creator={nftDetail.creator} creator_pfp={nftDetail.creator_pfp}/>
+                            <NFTsCard key={nftDetail.id} id={nftDetail.id} nft={nftDetail.nft} name={nftDetail.name} price={nftDetail.price} creator={nftDetail.creator} creator_pfp={nftDetail.creator_pfp}/>
                         )
                     })
                 }
