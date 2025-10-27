@@ -18,25 +18,29 @@ A modern, full-stack NFT marketplace built with Next.js, supporting minting, buy
 ## Getting Started
 
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/nextgen-nft-marketplace.git
-    cd nextgen-nft-marketplace
-    ```
+
+   ```bash
+   git clone https://github.com/yourusername/nextgen-nft-marketplace.git
+   cd nextgen-nft-marketplace
+   ```
 
 2. **Install dependencies:**
-    ```bash
-    npm install
-    ```
+
+   ```bash
+   npm install
+   ```
 
 3. **Configure environment variables:**
-    - Copy `.env.example` to `.env` and update values as needed.
+
+   - Copy `.env.example` to `.env` and update values as needed.
 
 4. **Run the development server:**
-    ```bash
-    npm run dev
-    ```
 
-5. **Open [http://localhost:3000](http://localhost:3000) to view the app.**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open [http://localhost:5173](http://localhost:5173) to view the app.**
 
 ## Smart Contracts
 

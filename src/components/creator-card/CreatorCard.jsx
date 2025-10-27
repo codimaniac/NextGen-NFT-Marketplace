@@ -8,7 +8,7 @@ const CreatorCard = ({id, creator_name, creator_pfp}) => {
             <img src={creator_pfp} alt={creator_name} className="flex-1 rounded-[50%] w-35 h-35"/>
             <span className="mt-4">{creator_name}</span>
         </div>
-        <Button className="absolute left-1/2 top-full translate-[-50%] gradient-lin-bg rounded-[10px] w-max"><Link to={`/creator-profile/${id}`}>View Details</Link></Button>
+        <Button className="absolute left-1/2 top-full translate-[-50%] gradient-lin-bg rounded-[10px] w-max"><Link to={`/creator-profile/${id}`} className="block w-full h-full py-[8px] px-[24px]">View Details</Link></Button>
     </div>
   )
 }

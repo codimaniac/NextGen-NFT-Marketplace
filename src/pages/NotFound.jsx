@@ -9,7 +9,7 @@ const NotFound = () => {
         <p className="text-[var(--lighter-color)] text-[10px] text-center font-light leading-[183%]">
             Sorry! Page that you are looking for is not available.
         </p>
-        <Button className="gradient-lin-bg"><Link to="/">Go Back to Home</Link></Button>
+        <Button className="gradient-lin-bg"><Link to="/" className="block w-full h-full py-[8px] px-[24px]">Go Back to Home</Link></Button>
     </div>
   )
 }

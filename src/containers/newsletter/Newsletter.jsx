@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import NewsletterImg from '../../assets/newsletter-image.png'
 import { Button } from '../../components'
 
@@ -10,7 +11,7 @@ const Newsletter = () => {
             <p className="text-sm text-[var(--gray-color)] font-light leading-[183%]">In commodo auctor eget congue sit. Ultrices eget pretium sit euismod mi id. Risus, aliquam odio posuere ac in in nisl sed augue. Porta aenean egestas malesuada in pulvinar enim viverra.</p>
             <div className="flex items-center bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] p-2 w-full text-xs ">
                 <input type="email" name="email" id="email" placeholder="Write your email here" autoComplete="email" className="flex-1 border-0 outline-0 p-2 rounded-l-[5px] focus:bg-[#5955721f]"/>
-                <Button className="gradient-lin-bg">Subcribe</Button>
+                <Button className="gradient-lin-bg"><Link to='/subscribe' className="block w-full h-full py-[8px] px-[24px]">Subcribe</Link></Button>
             </div>
         </div>
     </div>

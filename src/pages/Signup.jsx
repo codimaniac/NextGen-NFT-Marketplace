@@ -1,5 +1,6 @@
 import { FaFacebook, FaGoogle } from "react-icons/fa6"
 import { Button } from '../components'
+import { Link } from "react-router-dom"
 
 const Signup = () => {
   return (
@@ -27,7 +28,7 @@ const Signup = () => {
                 <span className="text-[10px]">Lost Your Password?</span>
               </div>
             </form>
-            <Button className="gradient-lin-bg w-full mt-4 text-[var(--light-color)] font-normal">Sign Up</Button>
+            <Button className="gradient-lin-bg w-full mt-4 text-[var(--light-color)] font-normal"><Link to='/' className="block w-full h-full py-[8px] px-[24px]">Sign Up</Link></Button>
         </div>
     </div>
   )

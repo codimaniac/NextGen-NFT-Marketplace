@@ -23,7 +23,7 @@ const Blog = () => {
             <p className="text-[var(--lighter-color)] text-[10px] text-center font-light leading-[183%]">
                 Server not accessible. Please try again later.
             </p>
-            <Button className="gradient-lin-bg"><Link to="/">Go Back to Home</Link></Button>
+            <Button className="gradient-lin-bg"><Link to="/" className="block w-full h-full py-[8px] px-[24px]">Go Back to Home</Link></Button>
         </div>
       )
   }

@@ -1,6 +1,7 @@
 import { Contacts } from "../containers"
 import ContactImg from "../assets/contact-form-image.png"
 import { Button } from "../components"
+import { Link } from "react-router-dom"
 
 const ContactUs = () => {
   return (
@@ -22,7 +23,7 @@ const ContactUs = () => {
               Allow all terms & condictions  
             </span>
           </div>
-          <Button className="gradient-lin-bg w-fit mt-4 text-[var(--light-color)] font-normal">Send Message</Button>
+          <Button className="gradient-lin-bg w-fit mt-4 text-[var(--light-color)] font-normal"><Link to='/message-us' className="block w-full h-full py-[8px] px-[24px]">Send Message</Link></Button>
         </form>
       </div>
     </div>
