@@ -9,7 +9,7 @@ const app = http.createServer((req, res) => {
     const path = parsedURL.pathname
 
     //Set CORS headers to allow request from my app
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:5173')
+    res.setHeader('Access-Control-Allow-Origin', 'https://nextgen-nft-marketplace.netlify.app/')
     res.setHeader('Access-Control-Allow-Methods', 'GET')
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization')
 

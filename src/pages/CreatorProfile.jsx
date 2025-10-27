@@ -13,8 +13,12 @@ const CreatorProfile = () => {
   const { id } = useParams();
   const basePath = `/creator-profile/${id}`;
   const path = useResolvedPath().pathname;
-  const [Creator] = useGetData(`http://localhost:5000/Creators/${id}`);
-  const [NFTs] = useGetData(`http://localhost:5000/NFTs`);
+  const [Creator] = useGetData(
+    `https://nextgen-nft-marketplace.onrender.com/Creators/${id}`
+  );
+  const [NFTs] = useGetData(
+    `https://nextgen-nft-marketplace.onrender.com/NFTs`
+  );
   const creatorCollections = NFTs.filter(
     (nft) => nft.creator == Creator.creator_name
   );

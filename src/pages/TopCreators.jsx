@@ -5,7 +5,7 @@ import { useGetData } from "../hooks/useFetch";
 
 const TopCreators = () => {
   const [creators, isLoading, isError] = useGetData(
-    "http://localhost:5000/Creators"
+    "https://nextgen-nft-marketplace.onrender.com/Creators"
   );
 
   if (isLoading) {
@@ -24,7 +24,9 @@ const TopCreators = () => {
           Server not accessible. Please try again later.
         </p>
         <Button className="gradient-lin-bg">
-          <Link to="/" className="block w-full h-full py-[8px] px-[24px]">Go Back to Home</Link>
+          <Link to="/" className="block w-full h-full py-[8px] px-[24px]">
+            Go Back to Home
+          </Link>
         </Button>
       </div>
     );

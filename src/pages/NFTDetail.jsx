@@ -43,7 +43,7 @@ const NFTDetail = () => {
   const path = useResolvedPath("").pathname;
 
   const [nft, isLoading, isError] = useGetData(
-    `http://localhost:5000/NFTs/${id}`
+    `https://nextgen-nft-marketplace.onrender.com/NFTs/${id}`
   );
 
   if (isLoading) {
@@ -62,7 +62,9 @@ const NFTDetail = () => {
           Server not accessible. Please try again later.
         </p>
         <Button className="gradient-lin-bg">
-          <Link to="/" className="block w-full h-full py-[8px] px-[24px]">Go Back to Home</Link>
+          <Link to="/" className="block w-full h-full py-[8px] px-[24px]">
+            Go Back to Home
+          </Link>
         </Button>
       </div>
     );
@@ -126,7 +128,12 @@ const NFTDetail = () => {
               </div>
             </div>
             <Button className="gradient-lin-bg w-3/5 rounded-[10px] font-light mt-8">
-              <Link to='/buy' className="block w-full h-full py-[8px] px-[24px]">Buy It Now</Link>
+              <Link
+                to="/buy"
+                className="block w-full h-full py-[8px] px-[24px]"
+              >
+                Buy It Now
+              </Link>
             </Button>
           </div>
         </div>

@@ -17,7 +17,9 @@ const Marketplace = () => {
   const [isNavOpen, setIsNavOpen] = useState(false);
   const location = useLocation();
   const path = location.pathname + location.search;
-  const [nfts, isLoading, isError] = useGetData("http://localhost:5000/NFTs");
+  const [nfts, isLoading, isError] = useGetData(
+    "https://nextgen-nft-marketplace.onrender.com/NFTs"
+  );
   const [searchParams, setSearchParams] = useSearchParams();
   const searchFilter = searchParams.get("search")?.toLowerCase();
   const collectionFilter = searchParams.get("collection");
@@ -70,7 +72,9 @@ const Marketplace = () => {
           Server not accessible. Please try again later.
         </p>
         <Button className="gradient-lin-bg">
-          <Link to="/" className="block w-full h-full py-[8px] px-[24px]">Go Back to Home</Link>
+          <Link to="/" className="block w-full h-full py-[8px] px-[24px]">
+            Go Back to Home
+          </Link>
         </Button>
       </div>
     );
