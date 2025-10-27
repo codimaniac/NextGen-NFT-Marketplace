@@ -5,7 +5,7 @@ import { useGetData } from "../hooks/useFetch"
 
 const Blog = () => {
   const db_url = import.meta.env.VITE_DB_URL
-  const [data, isLoading, isError] = useGetData(`/data/db.json`)
+  const [data, isLoading, isError] = useGetData("https://nextgen-nft-marketplace.onrender.com/Blogs")
   const Blogs = data.Blogs
 
   if (isLoading) {
