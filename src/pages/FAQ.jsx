@@ -1,4 +1,4 @@
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import { IoMdArrowDropdown, IoMdArrowDropup } from "react-icons/io"
 
 const FAQCard = ({question, answer}) => {
@@ -33,6 +33,10 @@ const FAQ = () => {
       "answer": "Obcaecati mollitia, molestias tenetur hic commodi quibusdam fugit ipsum minima dolorem delectus! Quae, nesciunt similique? Ipsa atque animi ipsum, magnam at harum necessitatibus, praesentium beatae, quam neque excepturi asperiores voluptate veritatis possimus non repellat sed."
     },
   ]
+  
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
   return (
     <div className="flex justify-center section__margin">

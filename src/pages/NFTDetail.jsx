@@ -9,6 +9,7 @@ import { useGetData } from "../hooks/useFetch";
 import { CollectNFTs } from "../containers";
 import { IoMdShare } from "react-icons/io";
 import { Button } from "../components";
+import { useEffect } from "react";
 
 const ProductDescription = ({ full_desc }) => {
   return (
@@ -45,6 +46,10 @@ const NFTDetail = () => {
   const [nft, isLoading, isError] = useGetData(
     `https://nextgen-nft-marketplace.onrender.com/NFTs/${id}`
   );
+  
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
   if (isLoading) {
     return (

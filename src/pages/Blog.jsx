@@ -2,10 +2,16 @@ import { Link } from "react-router-dom"
 import { Button } from "../components"
 import { BlogCarousel } from "../containers"
 import { useGetData } from "../hooks/useFetch"
+import { useEffect } from "react"
 
 const Blog = () => {
   const db_url = import.meta.env.VITE_DB_URL
   const [Blogs, isLoading, isError] = useGetData("https://nextgen-nft-marketplace.onrender.com/Blogs")
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+  
 
   if (isLoading) {
       return (

@@ -2,11 +2,16 @@ import { Link } from "react-router-dom";
 import { Button } from "../components";
 import { CollectionsCarousel } from "../containers";
 import { useGetData } from "../hooks/useFetch";
+import { useEffect } from "react";
 
 const Collectibles = () => {
   const [collections, isLoading, isError] = useGetData(
     "https://nextgen-nft-marketplace.onrender.com/Collections"
   );
+  
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
   if (isLoading) {
     return (

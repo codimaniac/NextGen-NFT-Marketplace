@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 import { IoMdSearch } from "react-icons/io";
 import { Button } from "../components";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { BiChevronRight } from "react-icons/bi";
 
 const Marketplace = () => {
@@ -55,6 +55,10 @@ const Marketplace = () => {
 
     return urlObj.toString();
   };
+  
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
   if (isLoading) {
     return (

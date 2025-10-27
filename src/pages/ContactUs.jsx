@@ -2,8 +2,14 @@ import { Contacts } from "../containers"
 import ContactImg from "../assets/contact-form-image.png"
 import { Button } from "../components"
 import { Link } from "react-router-dom"
+import { useEffect } from "react"
 
 const ContactUs = () => {
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <div className="flex flex-col gap-4 items-center section__margin">
       <h1 className="text-3xl font-extrabold lg:text-4xl mt-20">Contact Us</h1>

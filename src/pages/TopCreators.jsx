@@ -2,11 +2,16 @@ import { Link } from "react-router-dom";
 import { Button } from "../components";
 import { CreatorsCarousel } from "../containers";
 import { useGetData } from "../hooks/useFetch";
+import { useEffect } from "react";
 
 const TopCreators = () => {
   const [creators, isLoading, isError] = useGetData(
     "https://nextgen-nft-marketplace.onrender.com/Creators"
   );
+  
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
   if (isLoading) {
     return (

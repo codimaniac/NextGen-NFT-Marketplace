@@ -2,8 +2,14 @@ import { Link } from "react-router-dom";
 import AboutBanner from "../assets/about-banner.png";
 import { Button } from "../components";
 import { LatestBlog, Stats } from "../containers";
+import { useEffect } from "react";
 
 const About = () => {
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <>
       <div className="flex flex-col gap-4 items-center section__margin">

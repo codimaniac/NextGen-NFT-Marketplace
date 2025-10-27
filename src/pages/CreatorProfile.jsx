@@ -8,6 +8,7 @@ import {
 import { NFTsCarousel } from "../containers";
 import { useGetData } from "../hooks/useFetch";
 import { IoMdArrowDropdown } from "react-icons/io";
+import { useEffect } from "react";
 
 const CreatorProfile = () => {
   const { id } = useParams();
@@ -22,6 +23,10 @@ const CreatorProfile = () => {
   const creatorCollections = NFTs.filter(
     (nft) => nft.creator == Creator.creator_name
   );
+  
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
   return (
     <div className="flex flex-col gap-4 items-center section__margin">

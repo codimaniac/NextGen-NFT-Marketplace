@@ -1,8 +1,14 @@
 import { FaFacebook, FaGoogle } from "react-icons/fa6"
 import { Button } from '../components'
 import { Link } from "react-router-dom"
+import { useEffect } from "react"
 
 const Login = () => {
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <div className="flex justify-center section__margin  text-[#848484]">
         <div className="items-center w-100 lg:w-120">
