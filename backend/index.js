@@ -2,7 +2,7 @@ const http = require('http')
 const url = require('url')
 const data = require('../data/db.json')
 
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT
 
 const app = http.createServer((req, res) => {
     const parsedURL = url.parse(req.url, true)

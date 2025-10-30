@@ -42,10 +42,8 @@ const NFTDetail = () => {
   const { id } = useParams();
   const basePath = `/nft/${id}`;
   const path = useResolvedPath("").pathname;
-
-  const [nft, isLoading, isError] = useGetData(
-    `https://nextgen-nft-marketplace.onrender.com/NFTs/${id}`
-  );
+  const db_url = import.meta.env.VITE_DB_URL
+  const [nft, isLoading, isError] = useGetData(`${db_url}/NFTs/${id}`)
   
   useEffect(() => {
     window.scrollTo(0, 0)

@@ -5,9 +5,8 @@ import { useGetData } from "../hooks/useFetch";
 import { useEffect } from "react";
 
 const Collectibles = () => {
-  const [collections, isLoading, isError] = useGetData(
-    "https://nextgen-nft-marketplace.onrender.com/Collections"
-  );
+  const db_url = import.meta.env.VITE_DB_URL
+  const [collections, isLoading, isError] = useGetData(`${db_url}/Collections`)
   
   useEffect(() => {
     window.scrollTo(0, 0)

@@ -6,7 +6,7 @@ import { useEffect } from "react"
 
 const Blog = () => {
   const db_url = import.meta.env.VITE_DB_URL
-  const [Blogs, isLoading, isError] = useGetData("https://nextgen-nft-marketplace.onrender.com/Blogs")
+  const [Blogs, isLoading, isError] = useGetData(`${db_url}/Blogs`)
 
   useEffect(() => {
     window.scrollTo(0, 0)

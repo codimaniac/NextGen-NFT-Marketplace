@@ -17,9 +17,8 @@ const Marketplace = () => {
   const [isNavOpen, setIsNavOpen] = useState(false);
   const location = useLocation();
   const path = location.pathname + location.search;
-  const [nfts, isLoading, isError] = useGetData(
-    "https://nextgen-nft-marketplace.onrender.com/NFTs"
-  );
+  const db_url = import.meta.env.VITE_DB_URL
+  const [nfts, isLoading, isError] = useGetData(`${db_url}/NFTs`)
   const [searchParams, setSearchParams] = useSearchParams();
   const searchFilter = searchParams.get("search")?.toLowerCase();
   const collectionFilter = searchParams.get("collection");
