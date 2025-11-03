@@ -1,16 +1,17 @@
-const http = require('http')
-const url = require('url')
-const data = require('../data/db.json')
+import http from 'http'
+import process from 'process'
+import data from '../data/db.json' with { type: 'json' }
 
 const PORT = process.env.PORT
 
 const app = http.createServer((req, res) => {
-    const parsedURL = url.parse(req.url, true)
+    const baseURL = `http://${req.headers.host}`
+    const parsedURL = new URL(req.url, baseURL)
     const path = parsedURL.pathname
 
     //Set CORS headers to allow request from my app
-    res.setHeader('Access-Control-Allow-Origin', 'https://nextgen-nft-marketplace.netlify.app')
-    res.setHeader('Access-Control-Allow-Methods', 'GET')
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:5173')
+    res.setHeader('Access-Control-Allow-Methods', 'OPTIONS, POST, GET, PUT, DELETE')
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization')
 
     if (req.method === "OPTIONS") {

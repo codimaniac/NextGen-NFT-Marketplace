@@ -1,14 +1,16 @@
+import { lazy } from "react"
+
 export { default as Homepage } from './Homepage'
-export { default as Signup } from './Signup'
-export { default as Login } from './Login'
-export { default as About } from './About'
-export { default as ContactUs } from './ContactUs'
-export { default as NotFound } from './NotFound'
-export { default as Blog } from './Blog'
-export { default as FAQ } from './FAQ'
-export { default as Collectibles } from './Collectibles'
-export { default as TopCreators } from './TopCreators'
-export { default as Marketplace } from './Marketplace'
-export { default as NFTDetail } from './NFTDetail'
-export { default as CreatorProfile } from './CreatorProfile'
-export { default as CreateNFT } from './CreateNFT'
+export const Signup = lazy(() => import('./Signup'))
+export const Login = lazy(() => import('./Login'))
+export const About = lazy(() => import('./About'))
+export const ContactUs = lazy(() => import('./ContactUs'))
+export const NotFound = lazy(() => import('./NotFound'))
+export const Blog = lazy(() => import('./Blog'))
+export const FAQ = lazy(() => import('./FAQ'))
+export const Collectibles = lazy(() => import('./Collectibles'))
+export const TopCreators = lazy(() => import('./TopCreators'))
+export const Marketplace = lazy(() => import('./Marketplace'))
+export const NFTDetail = lazy(() => import('./NFTDetail'))
+export const CreatorProfile = lazy(() => import('./CreatorProfile'))
+export const CreateNFT = lazy(() => import('./CreateNFT'))

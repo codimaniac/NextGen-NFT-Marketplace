@@ -5,7 +5,6 @@ import {
   Route,
   Routes,
   useLocation,
-  useResolvedPath,
   useSearchParams,
 } from "react-router-dom";
 import { IoMdSearch } from "react-icons/io";
