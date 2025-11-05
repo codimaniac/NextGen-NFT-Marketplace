@@ -15,7 +15,7 @@ const CreatorProfile = () => {
   const basePath = `/creator-profile/${id}`;
   const path = useResolvedPath().pathname;
   const db_url = import.meta.env.VITE_DB_URL
-  const [Creators] = useGetData(`${db_url}/Creators`)
+  const [Creator] = useGetData(`${db_url}/Creators/${id}`)
   const [NFTs] = useGetData(`${db_url}/NFTs`)
   const creatorCollections = NFTs.filter(
     (nft) => nft.creator == Creator.creator_name

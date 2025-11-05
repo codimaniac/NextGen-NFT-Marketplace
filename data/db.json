@@ -9,11 +9,21 @@
       "creator_pfp": "/images/glam-lee-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Art"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "A dynamic digital artwork capturing the intense energy of urban life through abstract forms and vibrant color contrasts.",
+      "full_desc": "Hard Breath represents the pulsating rhythm of metropolitan existence, where every moment is filled with tension and release. This piece explores the intersection of human emotion and mechanical precision, creating a visual symphony that resonates with the chaotic beauty of modern life. The artist masterfully blends organic shapes with geometric patterns, symbolizing our constant negotiation between nature and technology.",
+      "collections": ["Wall art", "Art", "Others"],
+      "additional_info": [
+        {"trait": "Style", "value": "Abstract Expressionism"},
+        {"trait": "Color Palette", "value": "Vibrant Contrast"},
+        {"trait": "Edition", "value": "1/1"},
+        {"trait": "Blockchain", "value": "Ethereum"},
+        {"trait": "File Type", "value": "PNG 4000x4000"}
+      ],
+      "review": [
+        {"user": "ArtCollector88", "rating": 5, "comment": "The energy in this piece is incredible! It changes my mood every time I look at it."},
+        {"user": "DigitalDreamer", "rating": 4, "comment": "Beautiful composition, though I wish the colors were slightly more saturated."},
+        {"user": "NFTEnthusiast", "rating": 5, "comment": "Glam Lee never disappoints. This is now the centerpiece of my digital gallery."}
+      ]
     },
     {
       "id": "590806893772692600",
@@ -24,11 +34,21 @@
       "creator_pfp": "/images/loura-chin-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "A mythical weapon forged from pure energy, glowing with celestial power and ancient magic.",
+      "full_desc": "The Lighting Axe embodies the raw power of thunderstorms and divine intervention. This legendary artifact appears to crackle with contained electricity, each spark telling stories of epic battles and heroic deeds. Created through advanced digital sculpting techniques, the axe features intricate runes that seem to shift and glow when viewed from different angles, creating an immersive experience that bridges fantasy and digital art.",
+      "collections": ["Game", "Character", "Others"],
+      "additional_info": [
+        {"trait": "Weapon Type", "value": "Mythical Axe"},
+        {"trait": "Element", "value": "Lightning"},
+        {"trait": "Rarity", "value": "Epic"},
+        {"trait": "Game Ready", "value": "Yes"},
+        {"trait": "Polygon Count", "value": "50K"}
+      ],
+      "review": [
+        {"user": "GameWarrior", "rating": 5, "comment": "Perfect for my fantasy character! The details are mind-blowing."},
+        {"user": "CollectorPrime", "rating": 4, "comment": "Amazing design, though the lightning effects could be more dynamic."},
+        {"user": "MythSeeker", "rating": 5, "comment": "Loura Chin creates the most immersive fantasy artifacts. This is a masterpiece!"}
+      ]
     },
     {
       "id": "122296082984254051",
@@ -39,11 +59,21 @@
       "creator_pfp": "/images/kelvin-glan-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "short_desc": "A haunting digital sculpture exploring mortality through intricate bone structures and ethereal lighting.",
+      "full_desc": "This Skeleton Head transcends traditional memento mori art by incorporating cyberpunk elements and futuristic aesthetics. Each bone is meticulously rendered with subsurface scattering effects that create a ghostly glow, while augmented reality elements reveal hidden symbols when viewed through compatible devices. The piece challenges our perceptions of life, death, and digital immortality in the age of blockchain technology.",
       "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "additional_info": [
+        {"trait": "Style", "value": "Cyber Gothic"},
+        {"trait": "Material", "value": "Digital Bone"},
+        {"trait": "AR Features", "value": "Enabled"},
+        {"trait": "Animation", "value": "Static"},
+        {"trait": "Mood", "value": "Ethereal"}
+      ],
+      "review": [
+        {"user": "DarkArtLover", "rating": 5, "comment": "The details in the bone structure are absolutely incredible. Hauntingly beautiful!"},
+        {"user": "TechArtist", "rating": 4, "comment": "Great concept, though I wish there were more interactive elements."},
+        {"user": "DigitalGoth", "rating": 5, "comment": "This piece gives me chills every time. Perfect blend of classic and futuristic themes."}
+      ]
     },
     {
       "id": "824994744563658180",
@@ -54,11 +84,21 @@
       "creator_pfp": "/images/alameda-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Art"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "A heart burning with passionate energy, symbolizing love's transformative and consuming nature.",
+      "full_desc": "Flaming Heart captures the dual nature of passion - both creative and destructive. The anatomical heart appears to be carved from living fire, with embers drifting into the digital space around it. This piece represents emotional intensity, vulnerability, and the beautiful danger of deep connection. The flames are procedurally generated, ensuring no two viewings are exactly alike, much like love itself.",
+      "collections": ["Wall art", "Art", "Others"],
+      "additional_info": [
+        {"trait": "Theme", "value": "Passion"},
+        {"trait": "Animation", "value": "Procedural Fire"},
+        {"trait": "Symbolism", "value": "Love & Transformation"},
+        {"trait": "Color Scheme", "value": "Warm Tones"},
+        {"trait": "Emotion", "value": "Intense"}
+      ],
+      "review": [
+        {"user": "RomanticSoul", "rating": 5, "comment": "This piece speaks to my heart. The fire animation is so realistic!"},
+        {"user": "ArtCritic", "rating": 4, "comment": "Powerful symbolism, though the composition could be more balanced."},
+        {"user": "FireArtist", "rating": 5, "comment": "The procedural flames are technically impressive and emotionally resonant."}
+      ]
     },
     {
       "id": "824994744513658100",
@@ -69,11 +109,21 @@
       "creator_pfp": "/images/glam-lee-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Art"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Industrial elegance meets digital precision in this polished steel abstract sculpture.",
+      "full_desc": "Steel 3D reimagines industrial materials through a lens of digital refinement. The piece features multiple polished steel surfaces that interact with virtual lighting, creating mesmerizing reflections and distortions. Each angle reveals new geometric relationships and optical effects, representing the complex interplay between manufacturing precision and artistic intuition in the digital age.",
+      "collections": ["Wall art", "Art", "Others"],
+      "additional_info": [
+        {"trait": "Material", "value": "Polished Steel"},
+        {"trait": "Style", "value": "Industrial Abstract"},
+        {"trait": "Reflections", "value": "Dynamic"},
+        {"trait": "Surface Quality", "value": "Mirror Finish"},
+        {"trait": "Complexity", "value": "High"}
+      ],
+      "review": [
+        {"user": "DesignExpert", "rating": 5, "comment": "The reflection work is phenomenal! This piece evolves with its environment."},
+        {"user": "MetalHead", "rating": 4, "comment": "Great industrial aesthetic, though I'd love to see more texture variation."},
+        {"user": "ModernArtFan", "rating": 5, "comment": "Glam Lee's understanding of material properties in digital space is unmatched."}
+      ]
     },
     {
       "id": "590896893772692600",
@@ -84,11 +134,21 @@
       "creator_pfp": "/images/loura-chin-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Organic forms frozen in digital perfection, celebrating nature's intricate patterns.",
+      "full_desc": "Leaf Sculpture captures the delicate beauty of botanical structures through hyper-detailed digital modeling. Each vein, cell, and surface texture is rendered with scientific accuracy while maintaining artistic elegance. The piece appears to respond to virtual seasons, with subtle color shifts that mimic natural cycles, creating a living artwork that bridges the gap between biological precision and digital creation.",
+      "collections": ["Wall art", "Art", "Others"],
+      "additional_info": [
+        {"trait": "Nature Type", "value": "Botanical"},
+        {"trait": "Detail Level", "value": "Microscopic"},
+        {"trait": "Seasonal", "value": "Color Changing"},
+        {"trait": "Texture", "value": "Organic"},
+        {"trait": "Mood", "value": "Serene"}
+      ],
+      "review": [
+        {"user": "NatureLover", "rating": 5, "comment": "The attention to botanical detail is astonishing! It feels so alive."},
+        {"user": "BioArtist", "rating": 4, "comment": "Beautiful rendering, though the leaf morphology could be more species-specific."},
+        {"user": "DigitalGardener", "rating": 5, "comment": "Loura Chin brings nature to life in the digital realm like no one else."}
+      ]
     },
     {
       "id": "125296082914254051",
@@ -99,11 +159,21 @@
       "creator_pfp": "/images/kelvin-glan-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "A crystalline gateway to other dimensions, reflecting infinite possibilities.",
+      "full_desc": "Glass Portal explores the concept of multidimensional travel through refractive surfaces and light manipulation. The artwork features complex caustic patterns and spectral dispersion effects that create the illusion of depth beyond the digital canvas. Each viewing angle reveals new layers of reality, inviting contemplation about perception, boundaries, and the nature of existence across different planes of reality.",
+      "collections": ["Wall art", "Game", "Others"],
+      "additional_info": [
+        {"trait": "Material", "value": "Crystalline"},
+        {"trait": "Optical Effects", "value": "Refraction & Caustics"},
+        {"trait": "Theme", "value": "Multidimensional"},
+        {"trait": "Transparency", "value": "Semi-Transparent"},
+        {"trait": "Magic Type", "value": "Portal"}
+      ],
+      "review": [
+        {"user": "DimensionHopper", "rating": 5, "comment": "The light effects are hypnotic! I get lost in this portal every time."},
+        {"user": "SciFiFan", "rating": 4, "comment": "Great concept, though the portal stability could be more dynamic."},
+        {"user": "LightArtist", "rating": 5, "comment": "The caustic patterns are computationally brilliant and visually stunning."}
+      ]
     },
     {
       "id": "824994744523658187",
@@ -114,11 +184,21 @@
       "creator_pfp": "/images/alameda-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Molecular beauty meets biological complexity in this scientific art piece.",
+      "full_desc": "Life Chemistry visualizes the fundamental building blocks of existence through artistic interpretation of biochemical structures. DNA helices, protein folds, and cellular organelles interact in a dance of creation and decomposition. The piece celebrates the elegant complexity of biological systems while questioning the boundaries between organic life and digital representation in our increasingly technological world.",
+      "collections": ["Art", "Others", "Wall art"],
+      "additional_info": [
+        {"trait": "Science Type", "value": "Biochemistry"},
+        {"trait": "Scale", "value": "Molecular"},
+        {"trait": "Accuracy", "value": "Artistically Interpreted"},
+        {"trait": "Movement", "value": "Organic Flow"},
+        {"trait": "Education Value", "value": "High"}
+      ],
+      "review": [
+        {"user": "ScienceTeacher", "rating": 5, "comment": "Makes complex biochemistry accessible and beautiful! My students love it."},
+        {"user": "BioResearcher", "rating": 4, "comment": "Artistically brilliant, though some molecular structures are simplified."},
+        {"user": "ArtScience", "rating": 5, "comment": "Alameda bridges the gap between laboratory and gallery perfectly."}
+      ]
     },
     {
       "id": "824994734563658100",
@@ -129,11 +209,21 @@
       "creator_pfp": "/images/glam-lee-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Minimalist steel forms exploring negative space and industrial aesthetics.",
+      "full_desc": "Steel Art employs reductionist principles to create powerful statements through simple forms and precise geometry. The artwork features carefully balanced steel elements that create dynamic shadow patterns and spatial relationships. This piece demonstrates how industrial materials can convey emotional depth and philosophical concepts when stripped to their essential forms and arranged with artistic intention.",
+      "collections": ["Wall art", "Art", "Others"],
+      "additional_info": [
+        {"trait": "Style", "value": "Minimalist"},
+        {"trait": "Material", "value": "Brushed Steel"},
+        {"trait": "Composition", "value": "Negative Space"},
+        {"trait": "Complexity", "value": "Low"},
+        {"trait": "Impact", "value": "High"}
+      ],
+      "review": [
+        {"user": "MinimalistFan", "rating": 5, "comment": "Less is more! This piece proves simplicity can be profoundly powerful."},
+        {"user": "IndustrialDesigner", "rating": 4, "comment": "Clean aesthetics, though I'd like more material texture."},
+        {"user": "SpaceArtist", "rating": 5, "comment": "The use of negative space is masterful. Every element serves a purpose."}
+      ]
     },
     {
       "id": "590806893772692660",
@@ -144,11 +234,21 @@
       "creator_pfp": "/images/loura-chin-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Emotional landscapes rendered through color, form, and digital texture.",
+      "full_desc": "Abstract Art translates internal emotional states into visual language through non-representational forms and color relationships. The piece evolves organically, with layers of digital paint interacting in ways that mimic traditional media while leveraging computational possibilities. This artwork invites personal interpretation while exploring the boundaries of what constitutes emotional expression in digital format.",
+      "collections": ["Wall art", "Art", "Painting"],
+      "additional_info": [
+        {"trait": "Movement", "value": "Abstract Expressionism"},
+        {"trait": "Color Theory", "value": "Emotional"},
+        {"trait": "Texture Layers", "value": "Multiple"},
+        {"trait": "Interpretation", "value": "Open"},
+        {"trait": "Technique", "value": "Digital Painting"}
+      ],
+      "review": [
+        {"user": "AbstractLover", "rating": 5, "comment": "The emotional depth in this piece is incredible. It speaks without words."},
+        {"user": "ColorTheorist", "rating": 4, "comment": "Interesting color relationships, though some harmonies could be refined."},
+        {"user": "DigitalPainter", "rating": 5, "comment": "Loura Chin's digital brushwork has the soul of traditional painting."}
+      ]
     },
     {
       "id": "122996082914254051",
@@ -159,11 +259,21 @@
       "creator_pfp": "/images/kelvin-glan-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "An exploration of identity and anonymity in the digital age.",
+      "full_desc": "Faceless challenges our notions of personal identity through a figure that exists without defining features yet conveys profound emotion. The smooth, featureless surface reflects the viewer's own image metaphorically, while subtle contouring suggests universal human experiences beyond individual characteristics. This piece comments on digital anonymity, universal humanity, and the essence of being that transcends physical appearance.",
+      "collections": ["Wall art", "Art", "Character"],
+      "additional_info": [
+        {"trait": "Theme", "value": "Identity"},
+        {"trait": "Face Features", "value": "None"},
+        {"trait": "Emotion", "value": "Universal"},
+        {"trait": "Surface", "value": "Smooth"},
+        {"trait": "Philosophical", "value": "High"}
+      ],
+      "review": [
+        {"user": "PhilosophyStudent", "rating": 5, "comment": "This piece raises profound questions about identity in digital spaces."},
+        {"user": "PortraitArtist", "rating": 4, "comment": "Interesting concept, though I miss traditional facial expression."},
+        {"user": "DigitalThinker", "rating": 5, "comment": "Kelvin Glan captures the essence of modern anonymity beautifully."}
+      ]
     },
     {
       "id": "824094744563658180",
@@ -174,11 +284,21 @@
       "creator_pfp": "/images/alameda-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Classical sculpture reimagined through digital marble and modern sensibility.",
+      "full_desc": "Marble David pays homage to Renaissance mastery while embracing digital possibilities. The iconic form is rendered with hyper-realistic marble texture that reveals microscopic crystal structures when viewed closely. Virtual lighting interacts with the stone surface in ways impossible with physical marble, creating luminous effects that highlight both the sculpture's timeless beauty and its contemporary digital nature.",
+      "collections": ["Wall art", "Art", "Character"],
+      "additional_info": [
+        {"trait": "Era", "value": "Renaissance Revival"},
+        {"trait": "Material", "value": "Digital Marble"},
+        {"trait": "Original Artist", "value": "Michelangelo Inspired"},
+        {"trait": "Surface Detail", "value": "Microcrystalline"},
+        {"trait": "Cultural Value", "value": "High"}
+      ],
+      "review": [
+        {"user": "ClassicArtFan", "rating": 5, "comment": "Brings classical beauty into the digital age with respect and innovation."},
+        {"user": "SculpturePurist", "rating": 4, "comment": "Beautiful rendering, though the proportions are slightly modernized."},
+        {"user": "RenaissanceRevival", "rating": 5, "comment": "Alameda understands both classical art and digital potential perfectly."}
+      ]
     },
     {
       "id": "824994754563658100",
@@ -189,11 +309,21 @@
       "creator_pfp": "/images/glam-lee-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Beauty found in fragmentation and the poetry of broken things.",
+      "full_desc": "Broken explores the Japanese concept of wabi-sabi through digital medium, finding perfection in imperfection and beauty in decay. The piece features a shattered form where each fragment tells its own story while contributing to the whole. Light passes through cracks in unexpected ways, creating patterns that symbolize how brokenness can lead to new forms of beauty and understanding.",
+      "collections": ["Wall art", "Art", "Others"],
+      "additional_info": [
+        {"trait": "Philosophy", "value": "Wabi-Sabi"},
+        {"trait": "Condition", "value": "Fragmented"},
+        {"trait": "Light Behavior", "value": "Crack Illumination"},
+        {"trait": "Emotion", "value": "Melancholic Beauty"},
+        {"trait": "Reconstruction", "value": "Metaphorical"}
+      ],
+      "review": [
+        {"user": "WabiSabiLover", "rating": 5, "comment": "Captures the beauty of imperfection perfectly. Deeply moving."},
+        {"user": "PerfectForm", "rating": 4, "comment": "Interesting concept, though some fractures feel too deliberate."},
+        {"user": "BrokenBeauty", "rating": 5, "comment": "Glam Lee finds poetry in brokenness like no other digital artist."}
+      ]
     },
     {
       "id": "590807893772692600",
@@ -204,11 +334,21 @@
       "creator_pfp": "/images/loura-chin-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "short_desc": "Color explosions capturing moments of emotional impact and transformation.",
+      "full_desc": "Splashed Face freezes a moment of dramatic color impact, where liquid pigments collide with human features to create unique patterns of expression. Each color represents different emotions splashing across the consciousness, while the underlying face maintains its integrity beneath the chromatic storm. This piece explores how external influences shape our identity while our core self remains recognizable.",
       "collections": ["Wall art", "Painting", "Character"],
-      "additional_info": [],
-      "review": []
+      "additional_info": [
+        {"trait": "Technique", "value": "Digital Splash"},
+        {"trait": "Color Count", "value": "Multiple"},
+        {"trait": "Emotional Impact", "value": "High"},
+        {"trait": "Movement", "value": "Frozen Moment"},
+        {"trait": "Underlying Form", "value": "Preserved"}
+      ],
+      "review": [
+        {"user": "ColorExplosion", "rating": 5, "comment": "The energy in this piece is electric! Each viewing reveals new color interactions."},
+        {"user": "PortraitTraditional", "rating": 4, "comment": "Dynamic concept, though I'd like clearer facial features."},
+        {"user": "EmotionalArt", "rating": 5, "comment": "Loura Chin captures emotional turbulence with incredible visual power."}
+      ]
     },
     {
       "id": "122296082914254051",
@@ -219,11 +359,21 @@
       "creator_pfp": "/images/kelvin-glan-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
+      "short_desc": "Solitude and resilience embodied in a single majestic tree.",
+      "full_desc": "Lonely Tree stands as a testament to endurance and beauty in isolation. The ancient tree spreads its branches against a minimalist landscape, each limb telling stories of seasons weathered and storms survived. The piece creates a meditative space for contemplating solitude, strength, and the quiet dignity of standing alone while being deeply connected to one's environment through root systems unseen.",
       "collections": ["Wall art", "Painting", "Art"],
-      "additional_info": [],
-      "review": []
+      "additional_info": [
+        {"trait": "Environment", "value": "Minimalist Landscape"},
+        {"trait": "Tree Age", "value": "Ancient"},
+        {"trait": "Mood", "value": "Contemplative"},
+        {"trait": "Season", "value": "Timeless"},
+        {"trait": "Symbolism", "value": "Resilience"}
+      ],
+      "review": [
+        {"user": "NatureMeditator", "rating": 5, "comment": "This tree feels like an old friend. So much character and dignity."},
+        {"user": "LandscapeArtist", "rating": 4, "comment": "Beautiful composition, though the background could be more detailed."},
+        {"user": "SolitudeSeeker", "rating": 5, "comment": "Kelvin Glan captures the poetry of loneliness with profound sensitivity."}
+      ]
     },
     {
       "id": "824994744463658180",
@@ -234,11 +384,21 @@
       "creator_pfp": "/images/alameda-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Geometric structures that bend reality through optical illusion and flexible forms.",
+      "full_desc": "Flexible Plex challenges our perception of rigid geometry by introducing organic movement to mathematical precision. The artwork features interconnected geometric shapes that appear to breathe and flex, creating impossible structures that defy conventional physics. This piece explores the relationship between order and chaos, stability and fluidity, in both mathematical principles and human experience.",
+      "collections": ["Wall art", "Game", "Others"],
+      "additional_info": [
+        {"trait": "Geometry Type", "value": "Impossible Objects"},
+        {"trait": "Movement", "value": "Organic Flex"},
+        {"trait": "Optical Effect", "value": "Reality Bending"},
+        {"trait": "Mathematical", "value": "Advanced"},
+        {"trait": "Perception", "value": "Challenging"}
+      ],
+      "review": [
+        {"user": "MathArtist", "rating": 5, "comment": "The mathematical precision combined with organic movement is genius!"},
+        {"user": "GeometryFan", "rating": 4, "comment": "Fascinating concepts, though some angles break the illusion."},
+        {"user": "RealityBender", "rating": 5, "comment": "Alameda creates digital art that literally changes how we see space."}
+      ]
     },
     {
       "id": "824995744563658110",
@@ -249,11 +409,21 @@
       "creator_pfp": "/images/glam-lee-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "The timeless smile reimagined through digital pixels and retro gaming aesthetics.",
+      "full_desc": "Pixel Monalisa bridges art history with digital culture by recreating Leonardo's masterpiece using pixel art techniques. Each blocky pixel contains micro-details that reveal themselves upon closer inspection, while the famous smile maintains its mysterious quality through simplified forms. This piece comments on how digital reproduction transforms classical art while preserving its essential spirit across technological revolutions.",
+      "collections": ["Wall art", "Game", "Art"],
+      "additional_info": [
+        {"trait": "Art Era", "value": "Renaissance Pixel"},
+        {"trait": "Pixel Size", "value": "Variable"},
+        {"trait": "Original", "value": "Da Vinci Inspired"},
+        {"trait": "Nostalgia", "value": "Retro Gaming"},
+        {"trait": "Cultural Reference", "value": "Iconic"}
+      ],
+      "review": [
+        {"user": "RetroGamer", "rating": 5, "comment": "Nostalgia meets high art! The pixel work is incredibly detailed."},
+        {"user": "ArtHistorian", "rating": 4, "comment": "Creative interpretation, though some facial proportions are altered."},
+        {"user": "DigitalCulture", "rating": 5, "comment": "Glam Lee understands how to honor classics while making them relevant today."}
+      ]
     },
     {
       "id": "590876893772692670",
@@ -264,11 +434,21 @@
       "creator_pfp": "/images/loura-chin-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "Botanical abundance frozen in digital perfection, celebrating nature's generosity.",
+      "full_desc": "Flowery Sculpture bursts with floral energy, featuring hundreds of unique blossoms arranged in impossible abundance. Each flower is botanically accurate yet artistically enhanced, creating a celebration of nature's diversity and creative power. The sculpture appears to grow and bloom in virtual space, with some flowers opening and closing in response to algorithmic day-night cycles, creating a living digital garden.",
+      "collections": ["Wall art", "Art", "Others"],
+      "additional_info": [
+        {"trait": "Flower Types", "value": "Multiple Species"},
+        {"trait": "Bloom State", "value": "Variable"},
+        {"trait": "Season", "value": "Eternal Spring"},
+        {"trait": "Fragrance", "value": "Visual Suggestion"},
+        {"trait": "Growth", "value": "Algorithmic"}
+      ],
+      "review": [
+        {"user": "FlowerLover", "rating": 5, "comment": "The botanical accuracy is amazing! I've identified real species in this sculpture."},
+        {"user": "GardenDesigner", "rating": 4, "comment": "Beautiful arrangement, though some flower scales are unrealistic."},
+        {"user": "NatureDigital", "rating": 5, "comment": "Loura Chin creates the most vibrant digital gardens in the NFT space."}
+      ]
     },
     {
       "id": "158296082914254051",
@@ -279,11 +459,21 @@
       "creator_pfp": "/images/kelvin-glan-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "A majestic deer silhouetted against a breathtaking digital sunset.",
+      "full_desc": "Sunset Deer captures a moment of tranquil beauty where wildlife and landscape merge in perfect harmony. The noble deer stands as a silhouette against a computationally generated sunset that never repeats exactly, with atmospheric effects creating unique color combinations each day. This piece evokes feelings of peace, wilderness, and the delicate balance between civilization and nature in our increasingly digital world.",
+      "collections": ["Wall art", "Painting", "Character"],
+      "additional_info": [
+        {"trait": "Animal", "value": "Deer"},
+        {"trait": "Time of Day", "value": "Sunset"},
+        {"trait": "Sky Type", "value": "Procedural"},
+        {"trait": "Mood", "value": "Tranquil"},
+        {"trait": "Wildlife", "value": "Majestic"}
+      ],
+      "review": [
+        {"user": "WildlifePhotographer", "rating": 5, "comment": "The sunset colors are more realistic than real life! Absolutely stunning."},
+        {"user": "AnimalArtist", "rating": 4, "comment": "Beautiful scene, though the deer anatomy could be more precise."},
+        {"user": "NatureDigital", "rating": 5, "comment": "Kelvin Glan captures wilderness moments with digital poetry."}
+      ]
     },
     {
       "id": "824993734563658180",
@@ -294,11 +484,21 @@
       "creator_pfp": "/images/alameda-pfp.png",
       "owner": "Kelvin Glan",
       "owner_pfp": "/images/kelvin-glan-pfp.png",
-      "short_desc": "Dolore qui necessitatibus quaerat illo, repellendus temporibus animi error praesentium saepe quos adipisci quis maiores soluta architecto nisi a aut, natus eveniet, at aspernatur possimus eligendi expedita vel facilis. Totam dolore tenetur rem aut corporis, quidem nulla, quo atque veritatis laborum dolorem voluptatum molestias maiores.",
-      "full_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim nostrum beatae, numquam deserunt doloribus voluptas veniam esse facilis tempore ducimus libero asperiores cumque ipsum nihil. Vitae dolore debitis cupiditate ea et. Reiciendis, aliquam? Beatae distinctio dolorum nam nulla ipsum iste, reiciendis assumenda voluptates autem non itaque, rerum nostrum quisquam laudantium labore velit veniam, aperiam consequatur porro illum voluptatum dolore. Ipsam excepturi expedita minus est optio nulla eveniet in sit cumque debitis? Rerum labore eum sequi praesentium voluptates esse! Vel non eum cumque deserunt ullam assumenda sunt eaque ea deleniti, perferendis incidunt magnam voluptates, nobis quisquam quaerat itaque, optio accusamus adipisci qui debitis a maxime minima. Rem dolorem ratione amet ipsa iste sint porro, natus atque voluptatem deserunt odio qui expedita tenetur cumque. Voluptas laboriosam accusamus, quaerat excepturi laborum nam nemo autem veniam atque voluptate consectetur quo tempore. Quod dolor ab officiis dolorum voluptatem repudiandae excepturi perspiciatis. Est quam, suscipit distinctio impedit facilis, a animi eaque soluta ullam quia culpa laborum sunt obcaecati magnam aperiam! Non, vero sint! Corporis blanditiis delectus quae ut aliquid distinctio eos sint mollitia, doloribus culpa nesciunt optio iure earum recusandae omnis a repellat. Id culpa, mollitia fugiat eveniet officia animi rem. In dignissimos doloribus voluptatibus dolorum!",
-      "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [],
-      "review": []
+      "short_desc": "A classical sculpture fragment recontextualized in digital space.",
+      "full_desc": "David Head isolates the most iconic portion of Michelangelo's masterpiece to examine its details with digital precision. The sculpture appears to be carved from data streams and binary code while maintaining the original's emotional intensity and anatomical perfection. This piece explores how fragmentation can lead to deeper understanding, and how digital technology allows us to appreciate classical art in new dimensions.",
+      "collections": ["Wall art", "Art", "Character"],
+      "additional_info": [
+        {"trait": "Fragment Type", "value": "Sculpture Head"},
+        {"trait": "Original", "value": "Michelangelo"},
+        {"trait": "Digital Material", "value": "Data Streams"},
+        {"trait": "Preservation", "value": "Digital Archive"},
+        {"trait": "Art Historical", "value": "Significant"}
+      ],
+      "review": [
+        {"user": "ClassicalScholar", "rating": 5, "comment": "Seeing David's head in this digital context reveals new emotional depths."},
+        {"user": "SculptureFan", "rating": 4, "comment": "Interesting digital treatment, though I prefer the complete sculpture."},
+        {"user": "DigitalHeritage", "rating": 5, "comment": "Alameda's digital preservation of classical art is culturally important."}
+      ]
     }
   ],
   "Collections": [

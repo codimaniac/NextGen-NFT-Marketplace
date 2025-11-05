@@ -14,27 +14,53 @@ import { useEffect } from "react";
 const ProductDescription = ({ full_desc }) => {
   return (
     <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
-      <div className="">Product Description</div>
-      <div>{full_desc}</div>
+      <div className="text-xl font-extrabold">Product Description</div>
+      <div className="text-[12px]">{full_desc}</div>
     </div>
   );
 };
 
-const AdditionalInfo = ({ full_desc }) => {
+const AdditionalInfo = ({ additional_info }) => {
   return (
     <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
-      <div className="">Additional Info</div>
-      <div>{full_desc}</div>
+      <div className="text-xl font-extrabold">Additional Info</div>
+      <div className="text-[12px]">{ additional_info }</div>
     </div>
   );
 };
 
-const Review = ({ full_desc }) => {
+const Review = ({ review }) => {
+  if (review?.length === 0) {
+    return (
+      <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
+        <div className="text-xl font-extrabold">Review</div>
+        <div>No reviews yet. Be the first to review this product!</div>
+      </div>
+    );
+  }
   return (
-    <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
-      <div className="">Review</div>
-      <div>{full_desc}</div>
-    </div>
+      <div className="flex flex-col gap-4 w-full border-[#2e3150] my-8 rounded-[10px] font-light text-sm leading-[183%] text-justify">
+            
+            {review?.map((rev, index) => {
+              return (
+                <div key={index} className="flex flex-col gap-2 p-8 bg-[#16192a] border-1 border-[#2e3150]">
+                  <div className="flex items-center gap-2">
+                    <img
+                      src="https://images.unsplash.com/photo-1641391503184-a2131018701b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
+                      alt={rev.user}
+                      className="rounded-[5px] w-10"
+                    />
+                    <span className="text-sm">@{rev.user}</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <span>Rating:</span>
+                    <span>{rev.rating} / 5</span>
+                  </div>
+                  <div className="text-[12px]">{rev.comment}</div>
+                </div>
+              )
+            })}
+      </div>
   );
 };
 
@@ -183,9 +209,9 @@ const NFTDetail = () => {
           />
           <Route
             path="additional-info"
-            element={<AdditionalInfo full_desc={nft.full_desc} />}
+            element={<AdditionalInfo additional_info={nft.additional_info} />}
           />
-          <Route path="review" element={<Review full_desc={nft.full_desc} />} />
+          <Route path="review" element={<Review review={nft.review} />} />
         </Routes>
       </div>
       <CollectNFTs title="Related NFTs" />
