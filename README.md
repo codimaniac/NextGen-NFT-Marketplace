@@ -22,7 +22,6 @@ This project is a UI + demo backend for exploring NFT marketplace flows (listing
 - `data/db.json` - mock API data used by `/backend`
 - `backend/index.js` - minimal backend server scaffold
 - `backend/package.json` - backend dev scripts
-- `src/utils/firebaseConfig.js` - Firebase helper (if you wire your project to Firebase)
 
 ## Getting started (local development)
 

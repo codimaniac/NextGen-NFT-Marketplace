@@ -3,6 +3,7 @@ import process from 'process'
 import data from '../data/db.json' with { type: 'json' }
 
 const PORT = process.env.PORT
+const ORIGIN = process.env.ORIGIN
 
 const app = http.createServer((req, res) => {
     const baseURL = `http://${req.headers.host}`
@@ -10,7 +11,7 @@ const app = http.createServer((req, res) => {
     const path = parsedURL.pathname
 
     //Set CORS headers to allow request from my app
-    res.setHeader('Access-Control-Allow-Origin', 'https://nextgen-nft-marketplace.netlify.app', 'http://localhost:5173')
+    res.setHeader('Access-Control-Allow-Origin', ORIGIN)
     res.setHeader('Access-Control-Allow-Methods', 'OPTIONS, POST, GET, PUT, DELETE')
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization')
 
@@ -43,8 +44,8 @@ const app = http.createServer((req, res) => {
             res.writeHead(200, {"Content-Type": "application/json"})
             res.end(JSON.stringify(item))
         } else {            
-            res.writeHead(200, {"Content-Type": "text/plain"})
-            res.end(`Item not Found ${itemID}`)
+            res.writeHead(404, { 'Content-Type': 'text/plain' });
+            res.end('404 Not Found: The requested resource could not be found.');
         }
     } else if (path.startsWith('/Creators/') && req.method === 'GET') {
         const itemID = path.split('/')[2]
@@ -54,8 +55,8 @@ const app = http.createServer((req, res) => {
             res.writeHead(200, {"Content-Type": "application/json"})
             res.end(JSON.stringify(item))
         } else {            
-            res.writeHead(200, {"Content-Type": "text/plain"})
-            res.end('Item not Found')
+            res.writeHead(404, { 'Content-Type': 'text/plain' });
+            res.end('404 Not Found: The requested resource could not be found.');
         }
     } else if (path.startsWith('/Collections/') && req.method === 'GET') {
         const itemID = path.split('/')[2]
@@ -65,8 +66,8 @@ const app = http.createServer((req, res) => {
             res.writeHead(200, {"Content-Type": "application/json"})
             res.end(JSON.stringify(item))
         } else {            
-            res.writeHead(200, {"Content-Type": "text/plain"})
-            res.end('Item not Found')
+            res.writeHead(404, { 'Content-Type': 'text/plain' });
+            res.end('404 Not Found: The requested resource could not be found.');
         }
     } else if (path.startsWith('/Blogs/') && req.method === 'GET') {
         const itemID = path.split('/')[2]
@@ -76,12 +77,12 @@ const app = http.createServer((req, res) => {
             res.writeHead(200, {"Content-Type": "application/json"})
             res.end(JSON.stringify(item))
         } else {            
-            res.writeHead(200, {"Content-Type": "text/plain"})
-            res.end('Item not Found')
+            res.writeHead(404, { 'Content-Type': 'text/plain' });
+            res.end('404 Not Found: The requested resource could not be found.');
         }
     } else {
-        res.writeHead(200, {"Content-Type": "text/plain"})
-        res.end('Not Found')
+        res.writeHead(404, { 'Content-Type': 'text/plain' });
+        res.end('404 Not Found: The requested resource could not be found.');
     }
 })
 

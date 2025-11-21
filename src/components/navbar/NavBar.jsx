@@ -93,7 +93,12 @@ const NavBar = () => {
         </Button>
         <button className="border-2 border-transparent gradient-lin-bg bg-clip-border cursor-pointer">
           <div className="bg-[var(--primary-color)] w-full h-full">
-            <Link to="/signup" className="block w-full h-full py-[8px] px-[24px] md:py-[4px] md:px-[12px]">Sign up</Link>
+            <Link
+              to="/signup"
+              className="block w-full h-full py-[8px] px-[24px] md:py-[4px] md:px-[12px]"
+            >
+              Sign up
+            </Link>
           </div>
         </button>
       </div>
@@ -115,7 +120,11 @@ const NavBar = () => {
             </Button>
             <button className="border-2 border-transparent gradient-lin-bg bg-clip-border cursor-pointer">
               <div className="bg-[var(--primary-color)] w-full h-full">
-                <Link to="/signup" onClick={toggleNav} className="block w-full h-full py-[8px] px-[24px] md:py-[4px] md:px-[12px]">
+                <Link
+                  to="/signup"
+                  onClick={toggleNav}
+                  className="block w-full h-full py-[8px] px-[24px] md:py-[4px] md:px-[12px]"
+                >
                   Sign up
                 </Link>
               </div>

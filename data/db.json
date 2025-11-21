@@ -1,7 +1,7 @@
 {
   "NFTs": [
     {
-      "id": "824994744563658100",
+      "id": "824410",
       "nft": "/images/hard-breath.png",
       "name": "Hard Breath",
       "price": 0.22,
@@ -12,21 +12,66 @@
       "short_desc": "A dynamic digital artwork capturing the intense energy of urban life through abstract forms and vibrant color contrasts.",
       "full_desc": "Hard Breath represents the pulsating rhythm of metropolitan existence, where every moment is filled with tension and release. This piece explores the intersection of human emotion and mechanical precision, creating a visual symphony that resonates with the chaotic beauty of modern life. The artist masterfully blends organic shapes with geometric patterns, symbolizing our constant negotiation between nature and technology.",
       "collections": ["Wall art", "Art", "Others"],
-      "additional_info": [
-        {"trait": "Style", "value": "Abstract Expressionism"},
-        {"trait": "Color Palette", "value": "Vibrant Contrast"},
-        {"trait": "Edition", "value": "1/1"},
-        {"trait": "Blockchain", "value": "Ethereum"},
-        {"trait": "File Type", "value": "PNG 4000x4000"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x3a8d...c7e1",
+        "creator_address": "0x9f2b...5c7d",
+        "classification": "Digital Art",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Style", "value": "Abstract Expressionism" },
+        { "trait": "Color Palette", "value": "Vibrant Contrast" },
+        { "trait": "Edition", "value": "1/1" },
+        { "trait": "Blockchain", "value": "Ethereum" },
+        { "trait": "File Type", "value": "PNG 4000x4000" }
       ],
       "review": [
-        {"user": "ArtCollector88", "rating": 5, "comment": "The energy in this piece is incredible! It changes my mood every time I look at it."},
-        {"user": "DigitalDreamer", "rating": 4, "comment": "Beautiful composition, though I wish the colors were slightly more saturated."},
-        {"user": "NFTEnthusiast", "rating": 5, "comment": "Glam Lee never disappoints. This is now the centerpiece of my digital gallery."}
+        {
+          "user": "ArtCollector88",
+          "rating": 5,
+          "comment": "The energy in this piece is incredible! It changes my mood every time I look at it. The way the colors interact creates such a dynamic visual experience that feels alive.",
+          "verified": true,
+          "timestamp": "2024-01-15T14:30:00Z",
+          "likes": 12
+        },
+        {
+          "user": "DigitalDreamer",
+          "rating": 4,
+          "comment": "Beautiful composition, though I wish the colors were slightly more saturated. Still, it's a great addition to my collection.",
+          "verified": true,
+          "timestamp": "2024-01-18T09:15:00Z",
+          "likes": 8
+        },
+        {
+          "user": "NFTEnthusiast",
+          "rating": 5,
+          "comment": "Glam Lee never disappoints. This is now the centerpiece of my digital gallery. The abstract forms seem to tell a different story each day.",
+          "verified": false,
+          "timestamp": "2024-01-20T16:45:00Z",
+          "likes": 15
+        },
+        {
+          "user": "UrbanArtLover",
+          "rating": 5,
+          "comment": "Absolutely captures the essence of city life. The chaotic harmony in this piece is mesmerizing. Worth every penny!",
+          "verified": true,
+          "timestamp": "2024-01-22T11:20:00Z",
+          "likes": 23
+        },
+        {
+          "user": "ColorTheoryExpert",
+          "rating": 4,
+          "comment": "Interesting use of complementary colors, though some transitions could be smoother. Overall, a solid piece from an emerging artist.",
+          "verified": true,
+          "timestamp": "2024-01-25T13:10:00Z",
+          "likes": 7
+        }
       ]
     },
     {
-      "id": "590806893772692600",
+      "id": "988278",
       "nft": "/images/lighting-axe.png",
       "name": "Lighting Axe",
       "price": 0.36,
@@ -37,21 +82,58 @@
       "short_desc": "A mythical weapon forged from pure energy, glowing with celestial power and ancient magic.",
       "full_desc": "The Lighting Axe embodies the raw power of thunderstorms and divine intervention. This legendary artifact appears to crackle with contained electricity, each spark telling stories of epic battles and heroic deeds. Created through advanced digital sculpting techniques, the axe features intricate runes that seem to shift and glow when viewed from different angles, creating an immersive experience that bridges fantasy and digital art.",
       "collections": ["Game", "Character", "Others"],
-      "additional_info": [
-        {"trait": "Weapon Type", "value": "Mythical Axe"},
-        {"trait": "Element", "value": "Lightning"},
-        {"trait": "Rarity", "value": "Epic"},
-        {"trait": "Game Ready", "value": "Yes"},
-        {"trait": "Polygon Count", "value": "50K"}
+      "details": {
+        "blockchain": "Polygon",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x4b9e...d8f3",
+        "creator_address": "0xa3c2...8e1f",
+        "classification": "Gaming Asset",
+        "token_standard": "ERC-1155"
+      },
+      "properties": [
+        { "trait": "Weapon Type", "value": "Mythical Axe" },
+        { "trait": "Element", "value": "Lightning" },
+        { "trait": "Rarity", "value": "Epic" },
+        { "trait": "Game Ready", "value": "Yes" },
+        { "trait": "Polygon Count", "value": "50K" }
       ],
       "review": [
-        {"user": "GameWarrior", "rating": 5, "comment": "Perfect for my fantasy character! The details are mind-blowing."},
-        {"user": "CollectorPrime", "rating": 4, "comment": "Amazing design, though the lightning effects could be more dynamic."},
-        {"user": "MythSeeker", "rating": 5, "comment": "Loura Chin creates the most immersive fantasy artifacts. This is a masterpiece!"}
+        {
+          "user": "GameWarrior",
+          "rating": 5,
+          "comment": "Perfect for my fantasy character! The details are mind-blowing. The lightning effects are so realistic I can almost feel the static electricity.",
+          "verified": true,
+          "timestamp": "2024-01-14T18:30:00Z",
+          "likes": 18
+        },
+        {
+          "user": "CollectorPrime",
+          "rating": 4,
+          "comment": "Amazing design, though the lightning effects could be more dynamic during rotation.",
+          "verified": true,
+          "timestamp": "2024-01-16T10:45:00Z",
+          "likes": 9
+        },
+        {
+          "user": "MythSeeker",
+          "rating": 5,
+          "comment": "Loura Chin creates the most immersive fantasy artifacts. This is a masterpiece that brings ancient legends to life in the digital realm!",
+          "verified": false,
+          "timestamp": "2024-01-19T15:20:00Z",
+          "likes": 21
+        },
+        {
+          "user": "FantasyGamer",
+          "rating": 5,
+          "comment": "The runes actually change when you zoom in! This level of detail is unprecedented in digital weapon art. Perfect for my main character.",
+          "verified": true,
+          "timestamp": "2024-01-21T12:30:00Z",
+          "likes": 14
+        }
       ]
     },
     {
-      "id": "122296082984254051",
+      "id": "947426",
       "nft": "/images/skeleton-head.png",
       "name": "Skeleton Head",
       "price": 0.29,
@@ -62,21 +144,66 @@
       "short_desc": "A haunting digital sculpture exploring mortality through intricate bone structures and ethereal lighting.",
       "full_desc": "This Skeleton Head transcends traditional memento mori art by incorporating cyberpunk elements and futuristic aesthetics. Each bone is meticulously rendered with subsurface scattering effects that create a ghostly glow, while augmented reality elements reveal hidden symbols when viewed through compatible devices. The piece challenges our perceptions of life, death, and digital immortality in the age of blockchain technology.",
       "collections": ["Wall art", "Game", "Character"],
-      "additional_info": [
-        {"trait": "Style", "value": "Cyber Gothic"},
-        {"trait": "Material", "value": "Digital Bone"},
-        {"trait": "AR Features", "value": "Enabled"},
-        {"trait": "Animation", "value": "Static"},
-        {"trait": "Mood", "value": "Ethereal"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x5c7d...f3a8",
+        "creator_address": "0x7b5c...9f2a",
+        "classification": "3D Sculpture",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Style", "value": "Cyber Gothic" },
+        { "trait": "Material", "value": "Digital Bone" },
+        { "trait": "AR Features", "value": "Enabled" },
+        { "trait": "Animation", "value": "Static" },
+        { "trait": "Mood", "value": "Ethereal" }
       ],
       "review": [
-        {"user": "DarkArtLover", "rating": 5, "comment": "The details in the bone structure are absolutely incredible. Hauntingly beautiful!"},
-        {"user": "TechArtist", "rating": 4, "comment": "Great concept, though I wish there were more interactive elements."},
-        {"user": "DigitalGoth", "rating": 5, "comment": "This piece gives me chills every time. Perfect blend of classic and futuristic themes."}
+        {
+          "user": "DarkArtLover",
+          "rating": 5,
+          "comment": "The details in the bone structure are absolutely incredible. Hauntingly beautiful! Every time I examine it, I discover new subtle textures and imperfections that make it feel real.",
+          "verified": true,
+          "timestamp": "2024-01-13T20:15:00Z",
+          "likes": 25
+        },
+        {
+          "user": "TechArtist",
+          "rating": 4,
+          "comment": "Great concept, though I wish there were more interactive elements. The AR features are cool but limited.",
+          "verified": true,
+          "timestamp": "2024-01-17T14:50:00Z",
+          "likes": 6
+        },
+        {
+          "user": "DigitalGoth",
+          "rating": 5,
+          "comment": "This piece gives me chills every time. Perfect blend of classic and futuristic themes. The lighting effects create such an eerie atmosphere.",
+          "verified": false,
+          "timestamp": "2024-01-20T19:30:00Z",
+          "likes": 17
+        },
+        {
+          "user": "AnatomyStudent",
+          "rating": 5,
+          "comment": "As someone studying anatomy, I'm blown away by the accuracy of the bone structures. The artist clearly did their research while maintaining artistic expression.",
+          "verified": true,
+          "timestamp": "2024-01-23T11:45:00Z",
+          "likes": 11
+        },
+        {
+          "user": "AREnthusiast",
+          "rating": 4,
+          "comment": "The augmented reality features are innovative, though they could be more responsive. Still, a groundbreaking piece in digital sculpture.",
+          "verified": true,
+          "timestamp": "2024-01-26T16:20:00Z",
+          "likes": 8
+        }
       ]
     },
     {
-      "id": "824994744563658180",
+      "id": "781361",
       "nft": "/images/flaming-heart.png",
       "name": "Flaming Heart",
       "price": 0.28,
@@ -87,21 +214,58 @@
       "short_desc": "A heart burning with passionate energy, symbolizing love's transformative and consuming nature.",
       "full_desc": "Flaming Heart captures the dual nature of passion - both creative and destructive. The anatomical heart appears to be carved from living fire, with embers drifting into the digital space around it. This piece represents emotional intensity, vulnerability, and the beautiful danger of deep connection. The flames are procedurally generated, ensuring no two viewings are exactly alike, much like love itself.",
       "collections": ["Wall art", "Art", "Others"],
-      "additional_info": [
-        {"trait": "Theme", "value": "Passion"},
-        {"trait": "Animation", "value": "Procedural Fire"},
-        {"trait": "Symbolism", "value": "Love & Transformation"},
-        {"trait": "Color Scheme", "value": "Warm Tones"},
-        {"trait": "Emotion", "value": "Intense"}
+      "details": {
+        "blockchain": "Solana",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x6e1f...b9d4",
+        "creator_address": "0xd8f3...2a7b",
+        "classification": "Animated Art",
+        "token_standard": "SPL"
+      },
+      "properties": [
+        { "trait": "Theme", "value": "Passion" },
+        { "trait": "Animation", "value": "Procedural Fire" },
+        { "trait": "Symbolism", "value": "Love & Transformation" },
+        { "trait": "Color Scheme", "value": "Warm Tones" },
+        { "trait": "Emotion", "value": "Intense" }
       ],
       "review": [
-        {"user": "RomanticSoul", "rating": 5, "comment": "This piece speaks to my heart. The fire animation is so realistic!"},
-        {"user": "ArtCritic", "rating": 4, "comment": "Powerful symbolism, though the composition could be more balanced."},
-        {"user": "FireArtist", "rating": 5, "comment": "The procedural flames are technically impressive and emotionally resonant."}
+        {
+          "user": "RomanticSoul",
+          "rating": 5,
+          "comment": "This piece speaks to my heart. The fire animation is so realistic! It's like watching emotions made visible - beautiful and dangerous at the same time.",
+          "verified": true,
+          "timestamp": "2024-01-12T13:25:00Z",
+          "likes": 19
+        },
+        {
+          "user": "ArtCritic",
+          "rating": 4,
+          "comment": "Powerful symbolism, though the composition could be more balanced. The procedural elements are technically impressive.",
+          "verified": true,
+          "timestamp": "2024-01-15T17:40:00Z",
+          "likes": 5
+        },
+        {
+          "user": "FireArtist",
+          "rating": 5,
+          "comment": "The procedural flames are technically impressive and emotionally resonant. Each viewing offers a unique experience - truly revolutionary digital art.",
+          "verified": false,
+          "timestamp": "2024-01-18T21:15:00Z",
+          "likes": 22
+        },
+        {
+          "user": "EmotionExplorer",
+          "rating": 5,
+          "comment": "I've never seen digital art that captures the complexity of human emotion so perfectly. The way the fire both consumes and illuminates the heart is pure poetry.",
+          "verified": true,
+          "timestamp": "2024-01-22T10:30:00Z",
+          "likes": 16
+        }
       ]
     },
     {
-      "id": "824994744513658100",
+      "id": "823210",
       "nft": "/images/steel-3d.png",
       "name": "Steel 3D",
       "price": 0.29,
@@ -112,21 +276,66 @@
       "short_desc": "Industrial elegance meets digital precision in this polished steel abstract sculpture.",
       "full_desc": "Steel 3D reimagines industrial materials through a lens of digital refinement. The piece features multiple polished steel surfaces that interact with virtual lighting, creating mesmerizing reflections and distortions. Each angle reveals new geometric relationships and optical effects, representing the complex interplay between manufacturing precision and artistic intuition in the digital age.",
       "collections": ["Wall art", "Art", "Others"],
-      "additional_info": [
-        {"trait": "Material", "value": "Polished Steel"},
-        {"trait": "Style", "value": "Industrial Abstract"},
-        {"trait": "Reflections", "value": "Dynamic"},
-        {"trait": "Surface Quality", "value": "Mirror Finish"},
-        {"trait": "Complexity", "value": "High"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x7f3a...c5d8",
+        "creator_address": "0x9f2b...5c7d",
+        "classification": "3D Art",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Material", "value": "Polished Steel" },
+        { "trait": "Style", "value": "Industrial Abstract" },
+        { "trait": "Reflections", "value": "Dynamic" },
+        { "trait": "Surface Quality", "value": "Mirror Finish" },
+        { "trait": "Complexity", "value": "High" }
       ],
       "review": [
-        {"user": "DesignExpert", "rating": 5, "comment": "The reflection work is phenomenal! This piece evolves with its environment."},
-        {"user": "MetalHead", "rating": 4, "comment": "Great industrial aesthetic, though I'd love to see more texture variation."},
-        {"user": "ModernArtFan", "rating": 5, "comment": "Glam Lee's understanding of material properties in digital space is unmatched."}
+        {
+          "user": "DesignExpert",
+          "rating": 5,
+          "comment": "The reflection work is phenomenal! This piece evolves with its environment. The way it interacts with different lighting conditions creates an ever-changing artwork.",
+          "verified": true,
+          "timestamp": "2024-01-11T15:50:00Z",
+          "likes": 13
+        },
+        {
+          "user": "MetalHead",
+          "rating": 4,
+          "comment": "Great industrial aesthetic, though I'd love to see more texture variation across the surfaces.",
+          "verified": true,
+          "timestamp": "2024-01-14T12:35:00Z",
+          "likes": 7
+        },
+        {
+          "user": "ModernArtFan",
+          "rating": 5,
+          "comment": "Glam Lee's understanding of material properties in digital space is unmatched. This piece feels both heavy and weightless simultaneously.",
+          "verified": false,
+          "timestamp": "2024-01-17T19:20:00Z",
+          "likes": 18
+        },
+        {
+          "user": "GeometryLover",
+          "rating": 5,
+          "comment": "The geometric precision combined with organic reflections creates such a fascinating contrast. Every angle offers a new mathematical discovery.",
+          "verified": true,
+          "timestamp": "2024-01-20T14:45:00Z",
+          "likes": 11
+        },
+        {
+          "user": "IndustrialDesigner",
+          "rating": 4,
+          "comment": "Excellent representation of industrial materials, though some edges could be sharper. The lighting interactions are masterfully done.",
+          "verified": true,
+          "timestamp": "2024-01-24T16:30:00Z",
+          "likes": 6
+        }
       ]
     },
     {
-      "id": "590896893772692600",
+      "id": "313638",
       "nft": "/images/leaf-sculpture.png",
       "name": "Leaf Sculpture",
       "price": 0.51,
@@ -137,21 +346,74 @@
       "short_desc": "Organic forms frozen in digital perfection, celebrating nature's intricate patterns.",
       "full_desc": "Leaf Sculpture captures the delicate beauty of botanical structures through hyper-detailed digital modeling. Each vein, cell, and surface texture is rendered with scientific accuracy while maintaining artistic elegance. The piece appears to respond to virtual seasons, with subtle color shifts that mimic natural cycles, creating a living artwork that bridges the gap between biological precision and digital creation.",
       "collections": ["Wall art", "Art", "Others"],
-      "additional_info": [
-        {"trait": "Nature Type", "value": "Botanical"},
-        {"trait": "Detail Level", "value": "Microscopic"},
-        {"trait": "Seasonal", "value": "Color Changing"},
-        {"trait": "Texture", "value": "Organic"},
-        {"trait": "Mood", "value": "Serene"}
+      "details": {
+        "blockchain": "Tezos",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x8d4c...e9f1",
+        "creator_address": "0xa3c2...8e1f",
+        "classification": "Generative Art",
+        "token_standard": "FA2"
+      },
+      "properties": [
+        { "trait": "Nature Type", "value": "Botanical" },
+        { "trait": "Detail Level", "value": "Microscopic" },
+        { "trait": "Seasonal", "value": "Color Changing" },
+        { "trait": "Texture", "value": "Organic" },
+        { "trait": "Mood", "value": "Serene" }
       ],
       "review": [
-        {"user": "NatureLover", "rating": 5, "comment": "The attention to botanical detail is astonishing! It feels so alive."},
-        {"user": "BioArtist", "rating": 4, "comment": "Beautiful rendering, though the leaf morphology could be more species-specific."},
-        {"user": "DigitalGardener", "rating": 5, "comment": "Loura Chin brings nature to life in the digital realm like no one else."}
+        {
+          "user": "NatureLover",
+          "rating": 5,
+          "comment": "The attention to botanical detail is astonishing! It feels so alive. I can almost smell the fresh greenery when I look at it.",
+          "verified": true,
+          "timestamp": "2024-01-10T11:20:00Z",
+          "likes": 24
+        },
+        {
+          "user": "BioArtist",
+          "rating": 4,
+          "comment": "Beautiful rendering, though the leaf morphology could be more species-specific. The seasonal color changes are a nice touch.",
+          "verified": true,
+          "timestamp": "2024-01-13T16:55:00Z",
+          "likes": 8
+        },
+        {
+          "user": "DigitalGardener",
+          "rating": 5,
+          "comment": "Loura Chin brings nature to life in the digital realm like no one else. This piece has become the center of my virtual meditation space.",
+          "verified": false,
+          "timestamp": "2024-01-16T14:30:00Z",
+          "likes": 19
+        },
+        {
+          "user": "BotanyProfessor",
+          "rating": 5,
+          "comment": "As a botany professor, I'm impressed by the scientific accuracy combined with artistic expression. The venation patterns are particularly well-executed.",
+          "verified": true,
+          "timestamp": "2024-01-19T18:15:00Z",
+          "likes": 15
+        },
+        {
+          "user": "SeasonalObserver",
+          "rating": 4,
+          "comment": "The seasonal transitions are subtle but effective. I just wish they were a bit more dramatic to really emphasize the passage of time.",
+          "verified": true,
+          "timestamp": "2024-01-23T13:40:00Z",
+          "likes": 7
+        },
+        {
+          "user": "PeaceSeeker",
+          "rating": 5,
+          "comment": "This piece brings such calm to my digital space. The organic forms and gentle colors create a sanctuary away from the chaos of daily life.",
+          "verified": true,
+          "timestamp": "2024-01-26T10:25:00Z",
+          "likes": 12
+        }
       ]
     },
     {
-      "id": "125296082914254051",
+      "id": "028615",
       "nft": "/images/reflection-portal.png",
       "name": "Glass Portal",
       "price": 0.39,
@@ -162,24 +424,61 @@
       "short_desc": "A crystalline gateway to other dimensions, reflecting infinite possibilities.",
       "full_desc": "Glass Portal explores the concept of multidimensional travel through refractive surfaces and light manipulation. The artwork features complex caustic patterns and spectral dispersion effects that create the illusion of depth beyond the digital canvas. Each viewing angle reveals new layers of reality, inviting contemplation about perception, boundaries, and the nature of existence across different planes of reality.",
       "collections": ["Wall art", "Game", "Others"],
-      "additional_info": [
-        {"trait": "Material", "value": "Crystalline"},
-        {"trait": "Optical Effects", "value": "Refraction & Caustics"},
-        {"trait": "Theme", "value": "Multidimensional"},
-        {"trait": "Transparency", "value": "Semi-Transparent"},
-        {"trait": "Magic Type", "value": "Portal"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x9e1f...c7d5",
+        "creator_address": "0x7b5c...9f2a",
+        "classification": "Interactive Art",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Material", "value": "Crystalline" },
+        { "trait": "Optical Effects", "value": "Refraction & Caustics" },
+        { "trait": "Theme", "value": "Multidimensional" },
+        { "trait": "Transparency", "value": "Semi-Transparent" },
+        { "trait": "Magic Type", "value": "Portal" }
       ],
       "review": [
-        {"user": "DimensionHopper", "rating": 5, "comment": "The light effects are hypnotic! I get lost in this portal every time."},
-        {"user": "SciFiFan", "rating": 4, "comment": "Great concept, though the portal stability could be more dynamic."},
-        {"user": "LightArtist", "rating": 5, "comment": "The caustic patterns are computationally brilliant and visually stunning."}
+        {
+          "user": "DimensionHopper",
+          "rating": 5,
+          "comment": "The light effects are hypnotic! I get lost in this portal every time. The way it plays with perception is absolutely mind-bending.",
+          "verified": true,
+          "timestamp": "2024-01-09T19:45:00Z",
+          "likes": 27
+        },
+        {
+          "user": "SciFiFan",
+          "rating": 4,
+          "comment": "Great concept, though the portal stability could be more dynamic. The refractive qualities are technically impressive.",
+          "verified": true,
+          "timestamp": "2024-01-12T15:30:00Z",
+          "likes": 9
+        },
+        {
+          "user": "LightArtist",
+          "rating": 5,
+          "comment": "The caustic patterns are computationally brilliant and visually stunning. This represents a new frontier in digital light manipulation art.",
+          "verified": false,
+          "timestamp": "2024-01-15T22:10:00Z",
+          "likes": 20
+        },
+        {
+          "user": "RealityExplorer",
+          "rating": 5,
+          "comment": "Every time I look at this piece, I see something new. The layers of transparency create such depth that I feel I could step right through.",
+          "verified": true,
+          "timestamp": "2024-01-18T17:55:00Z",
+          "likes": 16
+        }
       ]
     },
     {
-      "id": "824994744523658187",
+      "id": "748293",
       "nft": "/images/life-chemistry.png",
       "name": "Life Chemistry",
-      "price": 0.30,
+      "price": 0.3,
       "creator": "Alameda",
       "creator_pfp": "/images/alameda-pfp.png",
       "owner": "Kelvin Glan",
@@ -187,24 +486,69 @@
       "short_desc": "Molecular beauty meets biological complexity in this scientific art piece.",
       "full_desc": "Life Chemistry visualizes the fundamental building blocks of existence through artistic interpretation of biochemical structures. DNA helices, protein folds, and cellular organelles interact in a dance of creation and decomposition. The piece celebrates the elegant complexity of biological systems while questioning the boundaries between organic life and digital representation in our increasingly technological world.",
       "collections": ["Art", "Others", "Wall art"],
-      "additional_info": [
-        {"trait": "Science Type", "value": "Biochemistry"},
-        {"trait": "Scale", "value": "Molecular"},
-        {"trait": "Accuracy", "value": "Artistically Interpreted"},
-        {"trait": "Movement", "value": "Organic Flow"},
-        {"trait": "Education Value", "value": "High"}
+      "details": {
+        "blockchain": "Polygon",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xa2f4...d9e6",
+        "creator_address": "0xd8f3...2a7b",
+        "classification": "Scientific Art",
+        "token_standard": "ERC-1155"
+      },
+      "properties": [
+        { "trait": "Science Type", "value": "Biochemistry" },
+        { "trait": "Scale", "value": "Molecular" },
+        { "trait": "Accuracy", "value": "Artistically Interpreted" },
+        { "trait": "Movement", "value": "Organic Flow" },
+        { "trait": "Education Value", "value": "High" }
       ],
       "review": [
-        {"user": "ScienceTeacher", "rating": 5, "comment": "Makes complex biochemistry accessible and beautiful! My students love it."},
-        {"user": "BioResearcher", "rating": 4, "comment": "Artistically brilliant, though some molecular structures are simplified."},
-        {"user": "ArtScience", "rating": 5, "comment": "Alameda bridges the gap between laboratory and gallery perfectly."}
+        {
+          "user": "ScienceTeacher",
+          "rating": 5,
+          "comment": "Makes complex biochemistry accessible and beautiful! My students love it. This has become an essential teaching tool in my digital classroom.",
+          "verified": true,
+          "timestamp": "2024-01-08T14:20:00Z",
+          "likes": 22
+        },
+        {
+          "user": "BioResearcher",
+          "rating": 4,
+          "comment": "Artistically brilliant, though some molecular structures are simplified for aesthetic purposes. The overall composition is stunning.",
+          "verified": true,
+          "timestamp": "2024-01-11T11:45:00Z",
+          "likes": 10
+        },
+        {
+          "user": "ArtScience",
+          "rating": 5,
+          "comment": "Alameda bridges the gap between laboratory and gallery perfectly. This piece demonstrates how science and art can enhance each other.",
+          "verified": false,
+          "timestamp": "2024-01-14T16:30:00Z",
+          "likes": 18
+        },
+        {
+          "user": "MolecularBiologist",
+          "rating": 5,
+          "comment": "As a researcher, I appreciate the balance between accuracy and artistic license. The protein folding representations are particularly elegant.",
+          "verified": true,
+          "timestamp": "2024-01-17T13:15:00Z",
+          "likes": 14
+        },
+        {
+          "user": "DigitalEducator",
+          "rating": 4,
+          "comment": "Great educational value, though I wish there were interactive labels for the different molecular components. Still, a beautiful piece.",
+          "verified": true,
+          "timestamp": "2024-01-21T15:50:00Z",
+          "likes": 8
+        }
       ]
     },
     {
-      "id": "824994734563658100",
+      "id": "823235",
       "nft": "/images/steel-art.png",
       "name": "Steel Art",
-      "price": 0.20,
+      "price": 0.2,
       "creator": "Glam Lee",
       "creator_pfp": "/images/glam-lee-pfp.png",
       "owner": "Kelvin Glan",
@@ -212,21 +556,58 @@
       "short_desc": "Minimalist steel forms exploring negative space and industrial aesthetics.",
       "full_desc": "Steel Art employs reductionist principles to create powerful statements through simple forms and precise geometry. The artwork features carefully balanced steel elements that create dynamic shadow patterns and spatial relationships. This piece demonstrates how industrial materials can convey emotional depth and philosophical concepts when stripped to their essential forms and arranged with artistic intention.",
       "collections": ["Wall art", "Art", "Others"],
-      "additional_info": [
-        {"trait": "Style", "value": "Minimalist"},
-        {"trait": "Material", "value": "Brushed Steel"},
-        {"trait": "Composition", "value": "Negative Space"},
-        {"trait": "Complexity", "value": "Low"},
-        {"trait": "Impact", "value": "High"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xb3c8...e7f2",
+        "creator_address": "0x9f2b...5c7d",
+        "classification": "Minimalist Art",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Style", "value": "Minimalist" },
+        { "trait": "Material", "value": "Brushed Steel" },
+        { "trait": "Composition", "value": "Negative Space" },
+        { "trait": "Complexity", "value": "Low" },
+        { "trait": "Impact", "value": "High" }
       ],
       "review": [
-        {"user": "MinimalistFan", "rating": 5, "comment": "Less is more! This piece proves simplicity can be profoundly powerful."},
-        {"user": "IndustrialDesigner", "rating": 4, "comment": "Clean aesthetics, though I'd like more material texture."},
-        {"user": "SpaceArtist", "rating": 5, "comment": "The use of negative space is masterful. Every element serves a purpose."}
+        {
+          "user": "MinimalistFan",
+          "rating": 5,
+          "comment": "Less is more! This piece proves simplicity can be profoundly powerful. The way it uses negative space creates such tension and balance.",
+          "verified": true,
+          "timestamp": "2024-01-07T16:40:00Z",
+          "likes": 15
+        },
+        {
+          "user": "IndustrialDesigner",
+          "rating": 4,
+          "comment": "Clean aesthetics, though I'd like more material texture. The geometric precision is impressive.",
+          "verified": true,
+          "timestamp": "2024-01-10T13:25:00Z",
+          "likes": 6
+        },
+        {
+          "user": "SpaceArtist",
+          "rating": 5,
+          "comment": "The use of negative space is masterful. Every element serves a purpose in creating this harmonious composition.",
+          "verified": false,
+          "timestamp": "2024-01-13T18:10:00Z",
+          "likes": 17
+        },
+        {
+          "user": "ArchitectureStudent",
+          "rating": 5,
+          "comment": "This piece teaches so much about spatial relationships and balance. It's like a masterclass in minimalist design principles.",
+          "verified": true,
+          "timestamp": "2024-01-16T12:55:00Z",
+          "likes": 11
+        }
       ]
     },
     {
-      "id": "590806893772692660",
+      "id": "593966",
       "nft": "/images/abstract-art.png",
       "name": "Abstract Art",
       "price": 0.35,
@@ -237,21 +618,66 @@
       "short_desc": "Emotional landscapes rendered through color, form, and digital texture.",
       "full_desc": "Abstract Art translates internal emotional states into visual language through non-representational forms and color relationships. The piece evolves organically, with layers of digital paint interacting in ways that mimic traditional media while leveraging computational possibilities. This artwork invites personal interpretation while exploring the boundaries of what constitutes emotional expression in digital format.",
       "collections": ["Wall art", "Art", "Painting"],
-      "additional_info": [
-        {"trait": "Movement", "value": "Abstract Expressionism"},
-        {"trait": "Color Theory", "value": "Emotional"},
-        {"trait": "Texture Layers", "value": "Multiple"},
-        {"trait": "Interpretation", "value": "Open"},
-        {"trait": "Technique", "value": "Digital Painting"}
+      "details": {
+        "blockchain": "Solana",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xc4d9...f8a3",
+        "creator_address": "0xa3c2...8e1f",
+        "classification": "Digital Painting",
+        "token_standard": "SPL"
+      },
+      "properties": [
+        { "trait": "Movement", "value": "Abstract Expressionism" },
+        { "trait": "Color Theory", "value": "Emotional" },
+        { "trait": "Texture Layers", "value": "Multiple" },
+        { "trait": "Interpretation", "value": "Open" },
+        { "trait": "Technique", "value": "Digital Painting" }
       ],
       "review": [
-        {"user": "AbstractLover", "rating": 5, "comment": "The emotional depth in this piece is incredible. It speaks without words."},
-        {"user": "ColorTheorist", "rating": 4, "comment": "Interesting color relationships, though some harmonies could be refined."},
-        {"user": "DigitalPainter", "rating": 5, "comment": "Loura Chin's digital brushwork has the soul of traditional painting."}
+        {
+          "user": "AbstractLover",
+          "rating": 5,
+          "comment": "The emotional depth in this piece is incredible. It speaks without words. Each viewing reveals new emotional layers that resonate differently depending on my mood.",
+          "verified": true,
+          "timestamp": "2024-01-06T12:15:00Z",
+          "likes": 20
+        },
+        {
+          "user": "ColorTheorist",
+          "rating": 4,
+          "comment": "Interesting color relationships, though some harmonies could be refined. The emotional impact is undeniable.",
+          "verified": true,
+          "timestamp": "2024-01-09T10:50:00Z",
+          "likes": 7
+        },
+        {
+          "user": "DigitalPainter",
+          "rating": 5,
+          "comment": "Loura Chin's digital brushwork has the soul of traditional painting. The texture layers create such depth and movement.",
+          "verified": false,
+          "timestamp": "2024-01-12T14:35:00Z",
+          "likes": 19
+        },
+        {
+          "user": "EmotionResearcher",
+          "rating": 5,
+          "comment": "As someone who studies emotional expression, this piece is fascinating. It captures complex emotional states that are difficult to articulate in words.",
+          "verified": true,
+          "timestamp": "2024-01-15T17:20:00Z",
+          "likes": 13
+        },
+        {
+          "user": "ArtTherapist",
+          "rating": 4,
+          "comment": "Great therapeutic potential, though some color combinations might be overwhelming for sensitive viewers. Overall, very expressive.",
+          "verified": true,
+          "timestamp": "2024-01-19T11:05:00Z",
+          "likes": 8
+        }
       ]
     },
     {
-      "id": "122996082914254051",
+      "id": "723572",
       "nft": "/images/faceless.png",
       "name": "Faceless",
       "price": 0.95,
@@ -262,21 +688,58 @@
       "short_desc": "An exploration of identity and anonymity in the digital age.",
       "full_desc": "Faceless challenges our notions of personal identity through a figure that exists without defining features yet conveys profound emotion. The smooth, featureless surface reflects the viewer's own image metaphorically, while subtle contouring suggests universal human experiences beyond individual characteristics. This piece comments on digital anonymity, universal humanity, and the essence of being that transcends physical appearance.",
       "collections": ["Wall art", "Art", "Character"],
-      "additional_info": [
-        {"trait": "Theme", "value": "Identity"},
-        {"trait": "Face Features", "value": "None"},
-        {"trait": "Emotion", "value": "Universal"},
-        {"trait": "Surface", "value": "Smooth"},
-        {"trait": "Philosophical", "value": "High"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xd5e8...c9f4",
+        "creator_address": "0x7b5c...9f2a",
+        "classification": "Conceptual Art",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Theme", "value": "Identity" },
+        { "trait": "Face Features", "value": "None" },
+        { "trait": "Emotion", "value": "Universal" },
+        { "trait": "Surface", "value": "Smooth" },
+        { "trait": "Philosophical", "value": "High" }
       ],
       "review": [
-        {"user": "PhilosophyStudent", "rating": 5, "comment": "This piece raises profound questions about identity in digital spaces."},
-        {"user": "PortraitArtist", "rating": 4, "comment": "Interesting concept, though I miss traditional facial expression."},
-        {"user": "DigitalThinker", "rating": 5, "comment": "Kelvin Glan captures the essence of modern anonymity beautifully."}
+        {
+          "user": "PhilosophyStudent",
+          "rating": 5,
+          "comment": "This piece raises profound questions about identity in digital spaces. It's amazing how much emotion can be conveyed without any facial features.",
+          "verified": true,
+          "timestamp": "2024-01-05T18:30:00Z",
+          "likes": 23
+        },
+        {
+          "user": "PortraitArtist",
+          "rating": 4,
+          "comment": "Interesting concept, though I miss traditional facial expression. The technical execution is flawless.",
+          "verified": true,
+          "timestamp": "2024-01-08T15:15:00Z",
+          "likes": 9
+        },
+        {
+          "user": "DigitalThinker",
+          "rating": 5,
+          "comment": "Kelvin Glan captures the essence of modern anonymity beautifully. This piece speaks to our digital souls in ways words cannot express.",
+          "verified": false,
+          "timestamp": "2024-01-11T20:00:00Z",
+          "likes": 21
+        },
+        {
+          "user": "IdentityScholar",
+          "rating": 5,
+          "comment": "As someone researching digital identity, this artwork perfectly encapsulates the tension between personal expression and online anonymity in contemporary society.",
+          "verified": true,
+          "timestamp": "2024-01-14T16:45:00Z",
+          "likes": 16
+        }
       ]
     },
     {
-      "id": "824094744563658180",
+      "id": "213683",
       "nft": "/images/marble-david.png",
       "name": "Marble David",
       "price": 0.72,
@@ -287,24 +750,69 @@
       "short_desc": "Classical sculpture reimagined through digital marble and modern sensibility.",
       "full_desc": "Marble David pays homage to Renaissance mastery while embracing digital possibilities. The iconic form is rendered with hyper-realistic marble texture that reveals microscopic crystal structures when viewed closely. Virtual lighting interacts with the stone surface in ways impossible with physical marble, creating luminous effects that highlight both the sculpture's timeless beauty and its contemporary digital nature.",
       "collections": ["Wall art", "Art", "Character"],
-      "additional_info": [
-        {"trait": "Era", "value": "Renaissance Revival"},
-        {"trait": "Material", "value": "Digital Marble"},
-        {"trait": "Original Artist", "value": "Michelangelo Inspired"},
-        {"trait": "Surface Detail", "value": "Microcrystalline"},
-        {"trait": "Cultural Value", "value": "High"}
+      "details": {
+        "blockchain": "Tezos",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xe6f9...d8b5",
+        "creator_address": "0xd8f3...2a7b",
+        "classification": "Classical Revival",
+        "token_standard": "FA2"
+      },
+      "properties": [
+        { "trait": "Era", "value": "Renaissance Revival" },
+        { "trait": "Material", "value": "Digital Marble" },
+        { "trait": "Original Artist", "value": "Michelangelo Inspired" },
+        { "trait": "Surface Detail", "value": "Microcrystalline" },
+        { "trait": "Cultural Value", "value": "High" }
       ],
       "review": [
-        {"user": "ClassicArtFan", "rating": 5, "comment": "Brings classical beauty into the digital age with respect and innovation."},
-        {"user": "SculpturePurist", "rating": 4, "comment": "Beautiful rendering, though the proportions are slightly modernized."},
-        {"user": "RenaissanceRevival", "rating": 5, "comment": "Alameda understands both classical art and digital potential perfectly."}
+        {
+          "user": "ClassicArtFan",
+          "rating": 5,
+          "comment": "Brings classical beauty into the digital age with respect and innovation. The marble texture is so realistic I can almost feel the cool stone.",
+          "verified": true,
+          "timestamp": "2024-01-04T14:10:00Z",
+          "likes": 26
+        },
+        {
+          "user": "SculpturePurist",
+          "rating": 4,
+          "comment": "Beautiful rendering, though the proportions are slightly modernized. The digital marble effect is technically impressive.",
+          "verified": true,
+          "timestamp": "2024-01-07T12:55:00Z",
+          "likes": 8
+        },
+        {
+          "user": "RenaissanceRevival",
+          "rating": 5,
+          "comment": "Alameda understands both classical art and digital potential perfectly. This bridges centuries of artistic tradition with future possibilities.",
+          "verified": false,
+          "timestamp": "2024-01-10T17:40:00Z",
+          "likes": 22
+        },
+        {
+          "user": "ArtHistorian",
+          "rating": 5,
+          "comment": "As an art historian, I appreciate how this piece honors Michelangelo's original while exploring new digital frontiers. The crystal detail work is extraordinary.",
+          "verified": true,
+          "timestamp": "2024-01-13T15:25:00Z",
+          "likes": 17
+        },
+        {
+          "user": "DigitalSculptor",
+          "rating": 4,
+          "comment": "Excellent marble simulation, though some subsurface scattering could be improved. Overall, a masterful digital interpretation of classical sculpture.",
+          "verified": true,
+          "timestamp": "2024-01-17T19:10:00Z",
+          "likes": 10
+        }
       ]
     },
     {
-      "id": "824994754563658100",
+      "id": "373235",
       "nft": "/images/broken.png",
       "name": "Broken",
-      "price": 1.20,
+      "price": 1.2,
       "creator": "Glam Lee",
       "creator_pfp": "/images/glam-lee-pfp.png",
       "owner": "Kelvin Glan",
@@ -312,21 +820,74 @@
       "short_desc": "Beauty found in fragmentation and the poetry of broken things.",
       "full_desc": "Broken explores the Japanese concept of wabi-sabi through digital medium, finding perfection in imperfection and beauty in decay. The piece features a shattered form where each fragment tells its own story while contributing to the whole. Light passes through cracks in unexpected ways, creating patterns that symbolize how brokenness can lead to new forms of beauty and understanding.",
       "collections": ["Wall art", "Art", "Others"],
-      "additional_info": [
-        {"trait": "Philosophy", "value": "Wabi-Sabi"},
-        {"trait": "Condition", "value": "Fragmented"},
-        {"trait": "Light Behavior", "value": "Crack Illumination"},
-        {"trait": "Emotion", "value": "Melancholic Beauty"},
-        {"trait": "Reconstruction", "value": "Metaphorical"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xf7a2...e9c6",
+        "creator_address": "0x9f2b...5c7d",
+        "classification": "Philosophical Art",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Philosophy", "value": "Wabi-Sabi" },
+        { "trait": "Condition", "value": "Fragmented" },
+        { "trait": "Light Behavior", "value": "Crack Illumination" },
+        { "trait": "Emotion", "value": "Melancholic Beauty" },
+        { "trait": "Reconstruction", "value": "Metaphorical" }
       ],
       "review": [
-        {"user": "WabiSabiLover", "rating": 5, "comment": "Captures the beauty of imperfection perfectly. Deeply moving."},
-        {"user": "PerfectForm", "rating": 4, "comment": "Interesting concept, though some fractures feel too deliberate."},
-        {"user": "BrokenBeauty", "rating": 5, "comment": "Glam Lee finds poetry in brokenness like no other digital artist."}
+        {
+          "user": "WabiSabiLover",
+          "rating": 5,
+          "comment": "Captures the beauty of imperfection perfectly. Deeply moving. The way light interacts with the broken edges creates such poetic moments.",
+          "verified": true,
+          "timestamp": "2024-01-03T16:50:00Z",
+          "likes": 24
+        },
+        {
+          "user": "PerfectForm",
+          "rating": 4,
+          "comment": "Interesting concept, though some fractures feel too deliberate. The philosophical depth is commendable.",
+          "verified": true,
+          "timestamp": "2024-01-06T14:35:00Z",
+          "likes": 7
+        },
+        {
+          "user": "BrokenBeauty",
+          "rating": 5,
+          "comment": "Glam Lee finds poetry in brokenness like no other digital artist. This piece has helped me appreciate the beauty in my own imperfections.",
+          "verified": false,
+          "timestamp": "2024-01-09T19:20:00Z",
+          "likes": 25
+        },
+        {
+          "user": "JapaneseAesthetics",
+          "rating": 5,
+          "comment": "As someone studying Japanese aesthetics, this is one of the most authentic digital interpretations of wabi-sabi I've encountered in the NFT space.",
+          "verified": true,
+          "timestamp": "2024-01-12T18:05:00Z",
+          "likes": 18
+        },
+        {
+          "user": "LightChaser",
+          "rating": 4,
+          "comment": "The light patterns through the cracks are beautiful, though I wish there were more dynamic lighting variations. Still, a profound piece.",
+          "verified": true,
+          "timestamp": "2024-01-16T13:50:00Z",
+          "likes": 9
+        },
+        {
+          "user": "HealingArtist",
+          "rating": 5,
+          "comment": "This piece has therapeutic qualities. It reminds us that broken things can be beautiful and that our scars tell our stories. Truly inspirational work.",
+          "verified": true,
+          "timestamp": "2024-01-20T11:35:00Z",
+          "likes": 15
+        }
       ]
     },
     {
-      "id": "590807893772692600",
+      "id": "592763",
       "nft": "/images/splashed-face.png",
       "name": "Splashed Face",
       "price": 0.65,
@@ -337,21 +898,58 @@
       "short_desc": "Color explosions capturing moments of emotional impact and transformation.",
       "full_desc": "Splashed Face freezes a moment of dramatic color impact, where liquid pigments collide with human features to create unique patterns of expression. Each color represents different emotions splashing across the consciousness, while the underlying face maintains its integrity beneath the chromatic storm. This piece explores how external influences shape our identity while our core self remains recognizable.",
       "collections": ["Wall art", "Painting", "Character"],
-      "additional_info": [
-        {"trait": "Technique", "value": "Digital Splash"},
-        {"trait": "Color Count", "value": "Multiple"},
-        {"trait": "Emotional Impact", "value": "High"},
-        {"trait": "Movement", "value": "Frozen Moment"},
-        {"trait": "Underlying Form", "value": "Preserved"}
+      "details": {
+        "blockchain": "Polygon",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x8b5c...f9d7",
+        "creator_address": "0xa3c2...8e1f",
+        "classification": "Expressionist Art",
+        "token_standard": "ERC-1155"
+      },
+      "properties": [
+        { "trait": "Technique", "value": "Digital Splash" },
+        { "trait": "Color Count", "value": "Multiple" },
+        { "trait": "Emotional Impact", "value": "High" },
+        { "trait": "Movement", "value": "Frozen Moment" },
+        { "trait": "Underlying Form", "value": "Preserved" }
       ],
       "review": [
-        {"user": "ColorExplosion", "rating": 5, "comment": "The energy in this piece is electric! Each viewing reveals new color interactions."},
-        {"user": "PortraitTraditional", "rating": 4, "comment": "Dynamic concept, though I'd like clearer facial features."},
-        {"user": "EmotionalArt", "rating": 5, "comment": "Loura Chin captures emotional turbulence with incredible visual power."}
+        {
+          "user": "ColorExplosion",
+          "rating": 5,
+          "comment": "The energy in this piece is electric! Each viewing reveals new color interactions. The frozen moment effect is executed perfectly.",
+          "verified": true,
+          "timestamp": "2024-01-02T13:25:00Z",
+          "likes": 19
+        },
+        {
+          "user": "PortraitTraditional",
+          "rating": 4,
+          "comment": "Dynamic concept, though I'd like clearer facial features. The color dynamics are technically impressive.",
+          "verified": true,
+          "timestamp": "2024-01-05T11:10:00Z",
+          "likes": 6
+        },
+        {
+          "user": "EmotionalArt",
+          "rating": 5,
+          "comment": "Loura Chin captures emotional turbulence with incredible visual power. This piece feels like looking into someone's soul during a moment of transformation.",
+          "verified": false,
+          "timestamp": "2024-01-08T15:55:00Z",
+          "likes": 20
+        },
+        {
+          "user": "ExpressionResearcher",
+          "rating": 5,
+          "comment": "As someone who studies facial expressions, this artwork brilliantly demonstrates how color and form can convey complex emotional states beyond traditional expressions.",
+          "verified": true,
+          "timestamp": "2024-01-11T14:40:00Z",
+          "likes": 14
+        }
       ]
     },
     {
-      "id": "122296082914254051",
+      "id": "421668",
       "nft": "/images/lonely-tree.png",
       "name": "Lonely Tree",
       "price": 0.29,
@@ -362,21 +960,66 @@
       "short_desc": "Solitude and resilience embodied in a single majestic tree.",
       "full_desc": "Lonely Tree stands as a testament to endurance and beauty in isolation. The ancient tree spreads its branches against a minimalist landscape, each limb telling stories of seasons weathered and storms survived. The piece creates a meditative space for contemplating solitude, strength, and the quiet dignity of standing alone while being deeply connected to one's environment through root systems unseen.",
       "collections": ["Wall art", "Painting", "Art"],
-      "additional_info": [
-        {"trait": "Environment", "value": "Minimalist Landscape"},
-        {"trait": "Tree Age", "value": "Ancient"},
-        {"trait": "Mood", "value": "Contemplative"},
-        {"trait": "Season", "value": "Timeless"},
-        {"trait": "Symbolism", "value": "Resilience"}
+      "details": {
+        "blockchain": "Solana",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0x9c7d...e8f4",
+        "creator_address": "0x7b5c...9f2a",
+        "classification": "Landscape Art",
+        "token_standard": "SPL"
+      },
+      "properties": [
+        { "trait": "Environment", "value": "Minimalist Landscape" },
+        { "trait": "Tree Age", "value": "Ancient" },
+        { "trait": "Mood", "value": "Contemplative" },
+        { "trait": "Season", "value": "Timeless" },
+        { "trait": "Symbolism", "value": "Resilience" }
       ],
       "review": [
-        {"user": "NatureMeditator", "rating": 5, "comment": "This tree feels like an old friend. So much character and dignity."},
-        {"user": "LandscapeArtist", "rating": 4, "comment": "Beautiful composition, though the background could be more detailed."},
-        {"user": "SolitudeSeeker", "rating": 5, "comment": "Kelvin Glan captures the poetry of loneliness with profound sensitivity."}
+        {
+          "user": "NatureMeditator",
+          "rating": 5,
+          "comment": "This tree feels like an old friend. So much character and dignity. It has become my daily meditation focus - such peaceful energy.",
+          "verified": true,
+          "timestamp": "2024-01-01T10:15:00Z",
+          "likes": 28
+        },
+        {
+          "user": "LandscapeArtist",
+          "rating": 4,
+          "comment": "Beautiful composition, though the background could be more detailed. The tree itself is rendered with wonderful character.",
+          "verified": true,
+          "timestamp": "2024-01-04T08:50:00Z",
+          "likes": 9
+        },
+        {
+          "user": "SolitudeSeeker",
+          "rating": 5,
+          "comment": "Kelvin Glan captures the poetry of loneliness with profound sensitivity. This piece reminds me that solitude can be beautiful and empowering.",
+          "verified": false,
+          "timestamp": "2024-01-07T12:35:00Z",
+          "likes": 23
+        },
+        {
+          "user": "ForestBather",
+          "rating": 5,
+          "comment": "As someone who practices forest bathing, this digital tree provides similar therapeutic benefits. It's amazing how much presence a single tree can have.",
+          "verified": true,
+          "timestamp": "2024-01-10T17:20:00Z",
+          "likes": 17
+        },
+        {
+          "user": "MinimalismExpert",
+          "rating": 4,
+          "comment": "Excellent use of negative space, though I wish there were more subtle environmental details. The tree's character shines through beautifully.",
+          "verified": true,
+          "timestamp": "2024-01-14T15:05:00Z",
+          "likes": 8
+        }
       ]
     },
     {
-      "id": "824994744463658180",
+      "id": "738124",
       "nft": "/images/flexible-plex.png",
       "name": "Flexible Plex",
       "price": 0.52,
@@ -387,21 +1030,58 @@
       "short_desc": "Geometric structures that bend reality through optical illusion and flexible forms.",
       "full_desc": "Flexible Plex challenges our perception of rigid geometry by introducing organic movement to mathematical precision. The artwork features interconnected geometric shapes that appear to breathe and flex, creating impossible structures that defy conventional physics. This piece explores the relationship between order and chaos, stability and fluidity, in both mathematical principles and human experience.",
       "collections": ["Wall art", "Game", "Others"],
-      "additional_info": [
-        {"trait": "Geometry Type", "value": "Impossible Objects"},
-        {"trait": "Movement", "value": "Organic Flex"},
-        {"trait": "Optical Effect", "value": "Reality Bending"},
-        {"trait": "Mathematical", "value": "Advanced"},
-        {"trait": "Perception", "value": "Challenging"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xad8e...f7c5",
+        "creator_address": "0xd8f3...2a7b",
+        "classification": "Geometric Art",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Geometry Type", "value": "Impossible Objects" },
+        { "trait": "Movement", "value": "Organic Flex" },
+        { "trait": "Optical Effect", "value": "Reality Bending" },
+        { "trait": "Mathematical", "value": "Advanced" },
+        { "trait": "Perception", "value": "Challenging" }
       ],
       "review": [
-        {"user": "MathArtist", "rating": 5, "comment": "The mathematical precision combined with organic movement is genius!"},
-        {"user": "GeometryFan", "rating": 4, "comment": "Fascinating concepts, though some angles break the illusion."},
-        {"user": "RealityBender", "rating": 5, "comment": "Alameda creates digital art that literally changes how we see space."}
+        {
+          "user": "MathArtist",
+          "rating": 5,
+          "comment": "The mathematical precision combined with organic movement is genius! This piece constantly challenges my understanding of spatial relationships.",
+          "verified": true,
+          "timestamp": "2023-12-31T14:40:00Z",
+          "likes": 21
+        },
+        {
+          "user": "GeometryFan",
+          "rating": 4,
+          "comment": "Fascinating concepts, though some angles break the illusion. The overall effect is mind-bending and innovative.",
+          "verified": true,
+          "timestamp": "2024-01-03T12:25:00Z",
+          "likes": 10
+        },
+        {
+          "user": "RealityBender",
+          "rating": 5,
+          "comment": "Alameda creates digital art that literally changes how we see space. This piece should be studied in perception psychology courses.",
+          "verified": false,
+          "timestamp": "2024-01-06T16:10:00Z",
+          "likes": 24
+        },
+        {
+          "user": "OpticalResearcher",
+          "rating": 5,
+          "comment": "As a researcher in visual perception, I'm amazed by how this artwork plays with cognitive expectations. It's both art and psychological experiment.",
+          "verified": true,
+          "timestamp": "2024-01-09T19:55:00Z",
+          "likes": 18
+        }
       ]
     },
     {
-      "id": "824995744563658110",
+      "id": "824511",
       "nft": "/images/pixel-monalisa.png",
       "name": "Pixel Monalisa",
       "price": 0.85,
@@ -412,24 +1092,69 @@
       "short_desc": "The timeless smile reimagined through digital pixels and retro gaming aesthetics.",
       "full_desc": "Pixel Monalisa bridges art history with digital culture by recreating Leonardo's masterpiece using pixel art techniques. Each blocky pixel contains micro-details that reveal themselves upon closer inspection, while the famous smile maintains its mysterious quality through simplified forms. This piece comments on how digital reproduction transforms classical art while preserving its essential spirit across technological revolutions.",
       "collections": ["Wall art", "Game", "Art"],
-      "additional_info": [
-        {"trait": "Art Era", "value": "Renaissance Pixel"},
-        {"trait": "Pixel Size", "value": "Variable"},
-        {"trait": "Original", "value": "Da Vinci Inspired"},
-        {"trait": "Nostalgia", "value": "Retro Gaming"},
-        {"trait": "Cultural Reference", "value": "Iconic"}
+      "details": {
+        "blockchain": "Tezos",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xbe9f...c8d6",
+        "creator_address": "0x9f2b...5c7d",
+        "classification": "Pixel Art",
+        "token_standard": "FA2"
+      },
+      "properties": [
+        { "trait": "Art Era", "value": "Renaissance Pixel" },
+        { "trait": "Pixel Size", "value": "Variable" },
+        { "trait": "Original", "value": "Da Vinci Inspired" },
+        { "trait": "Nostalgia", "value": "Retro Gaming" },
+        { "trait": "Cultural Reference", "value": "Iconic" }
       ],
       "review": [
-        {"user": "RetroGamer", "rating": 5, "comment": "Nostalgia meets high art! The pixel work is incredibly detailed."},
-        {"user": "ArtHistorian", "rating": 4, "comment": "Creative interpretation, though some facial proportions are altered."},
-        {"user": "DigitalCulture", "rating": 5, "comment": "Glam Lee understands how to honor classics while making them relevant today."}
+        {
+          "user": "RetroGamer",
+          "rating": 5,
+          "comment": "Nostalgia meets high art! The pixel work is incredibly detailed. The way the famous smile emerges from the pixels is pure magic.",
+          "verified": true,
+          "timestamp": "2023-12-30T17:30:00Z",
+          "likes": 26
+        },
+        {
+          "user": "ArtHistorian",
+          "rating": 4,
+          "comment": "Creative interpretation, though some facial proportions are altered. The cultural commentary on digital reproduction is thought-provoking.",
+          "verified": true,
+          "timestamp": "2024-01-02T15:15:00Z",
+          "likes": 11
+        },
+        {
+          "user": "DigitalCulture",
+          "rating": 5,
+          "comment": "Glam Lee understands how to honor classics while making them relevant today. This piece speaks to multiple generations simultaneously.",
+          "verified": false,
+          "timestamp": "2024-01-05T18:00:00Z",
+          "likes": 25
+        },
+        {
+          "user": "PixelArtist",
+          "rating": 5,
+          "comment": "As a pixel artist myself, I'm blown away by the technical skill. The dithering and color selection perfectly capture the essence of the original.",
+          "verified": true,
+          "timestamp": "2024-01-08T16:45:00Z",
+          "likes": 19
+        },
+        {
+          "user": "RenaissanceScholar",
+          "rating": 4,
+          "comment": "Interesting modern interpretation, though purists might object to the pixelation. The conceptual strength makes up for any technical liberties.",
+          "verified": true,
+          "timestamp": "2024-01-12T14:30:00Z",
+          "likes": 9
+        }
       ]
     },
     {
-      "id": "590876893772692670",
+      "id": "593967",
       "nft": "/images/flowery-sculpture.png",
       "name": "Flowery Sculpture",
-      "price": 1.30,
+      "price": 1.3,
       "creator": "Loura Chin",
       "creator_pfp": "/images/loura-chin-pfp.png",
       "owner": "Kelvin Glan",
@@ -437,24 +1162,77 @@
       "short_desc": "Botanical abundance frozen in digital perfection, celebrating nature's generosity.",
       "full_desc": "Flowery Sculpture bursts with floral energy, featuring hundreds of unique blossoms arranged in impossible abundance. Each flower is botanically accurate yet artistically enhanced, creating a celebration of nature's diversity and creative power. The sculpture appears to grow and bloom in virtual space, with some flowers opening and closing in response to algorithmic day-night cycles, creating a living digital garden.",
       "collections": ["Wall art", "Art", "Others"],
-      "additional_info": [
-        {"trait": "Flower Types", "value": "Multiple Species"},
-        {"trait": "Bloom State", "value": "Variable"},
-        {"trait": "Season", "value": "Eternal Spring"},
-        {"trait": "Fragrance", "value": "Visual Suggestion"},
-        {"trait": "Growth", "value": "Algorithmic"}
+      "details": {
+        "blockchain": "Polygon",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xc7d8...e9f5",
+        "creator_address": "0xa3c2...8e1f",
+        "classification": "Botanical Art",
+        "token_standard": "ERC-1155"
+      },
+      "properties": [
+        { "trait": "Flower Types", "value": "Multiple Species" },
+        { "trait": "Bloom State", "value": "Variable" },
+        { "trait": "Season", "value": "Eternal Spring" },
+        { "trait": "Fragrance", "value": "Visual Suggestion" },
+        { "trait": "Growth", "value": "Algorithmic" }
       ],
       "review": [
-        {"user": "FlowerLover", "rating": 5, "comment": "The botanical accuracy is amazing! I've identified real species in this sculpture."},
-        {"user": "GardenDesigner", "rating": 4, "comment": "Beautiful arrangement, though some flower scales are unrealistic."},
-        {"user": "NatureDigital", "rating": 5, "comment": "Loura Chin creates the most vibrant digital gardens in the NFT space."}
+        {
+          "user": "FlowerLover",
+          "rating": 5,
+          "comment": "The botanical accuracy is amazing! I've identified real species in this sculpture. The algorithmic blooming creates such a dynamic, living feeling.",
+          "verified": true,
+          "timestamp": "2023-12-29T12:20:00Z",
+          "likes": 29
+        },
+        {
+          "user": "GardenDesigner",
+          "rating": 4,
+          "comment": "Beautiful arrangement, though some flower scales are unrealistic. The overall composition is breathtaking and full of life.",
+          "verified": true,
+          "timestamp": "2024-01-01T10:05:00Z",
+          "likes": 12
+        },
+        {
+          "user": "NatureDigital",
+          "rating": 5,
+          "comment": "Loura Chin creates the most vibrant digital gardens in the NFT space. This piece brings spring eternal to my digital collection.",
+          "verified": false,
+          "timestamp": "2024-01-04T13:50:00Z",
+          "likes": 27
+        },
+        {
+          "user": "Horticulturist",
+          "rating": 5,
+          "comment": "As a professional horticulturist, I appreciate the botanical accuracy combined with artistic enhancement. The seasonal algorithm is scientifically informed.",
+          "verified": true,
+          "timestamp": "2024-01-07T17:35:00Z",
+          "likes": 20
+        },
+        {
+          "user": "AlgorithmArtist",
+          "rating": 4,
+          "comment": "The growth algorithm is impressive, though I wish there were more variation in bloom cycles. Still, a technical and artistic achievement.",
+          "verified": true,
+          "timestamp": "2024-01-11T15:20:00Z",
+          "likes": 11
+        },
+        {
+          "user": "SpringEternal",
+          "rating": 5,
+          "comment": "This piece has become my digital sanctuary. Watching the flowers respond to virtual time creates such a peaceful, meditative experience throughout my day.",
+          "verified": true,
+          "timestamp": "2024-01-15T12:05:00Z",
+          "likes": 16
+        }
       ]
     },
     {
-      "id": "158296082914254051",
+      "id": "152505",
       "nft": "/images/sunset-deer.png",
       "name": "Sunset Deer",
-      "price": 1.10,
+      "price": 1.1,
       "creator": "Kelvin Glan",
       "creator_pfp": "/images/kelvin-glan-pfp.png",
       "owner": "Kelvin Glan",
@@ -462,21 +1240,58 @@
       "short_desc": "A majestic deer silhouetted against a breathtaking digital sunset.",
       "full_desc": "Sunset Deer captures a moment of tranquil beauty where wildlife and landscape merge in perfect harmony. The noble deer stands as a silhouette against a computationally generated sunset that never repeats exactly, with atmospheric effects creating unique color combinations each day. This piece evokes feelings of peace, wilderness, and the delicate balance between civilization and nature in our increasingly digital world.",
       "collections": ["Wall art", "Painting", "Character"],
-      "additional_info": [
-        {"trait": "Animal", "value": "Deer"},
-        {"trait": "Time of Day", "value": "Sunset"},
-        {"trait": "Sky Type", "value": "Procedural"},
-        {"trait": "Mood", "value": "Tranquil"},
-        {"trait": "Wildlife", "value": "Majestic"}
+      "details": {
+        "blockchain": "Solana",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xd8e9...f6c7",
+        "creator_address": "0x7b5c...9f2a",
+        "classification": "Wildlife Art",
+        "token_standard": "SPL"
+      },
+      "properties": [
+        { "trait": "Animal", "value": "Deer" },
+        { "trait": "Time of Day", "value": "Sunset" },
+        { "trait": "Sky Type", "value": "Procedural" },
+        { "trait": "Mood", "value": "Tranquil" },
+        { "trait": "Wildlife", "value": "Majestic" }
       ],
       "review": [
-        {"user": "WildlifePhotographer", "rating": 5, "comment": "The sunset colors are more realistic than real life! Absolutely stunning."},
-        {"user": "AnimalArtist", "rating": 4, "comment": "Beautiful scene, though the deer anatomy could be more precise."},
-        {"user": "NatureDigital", "rating": 5, "comment": "Kelvin Glan captures wilderness moments with digital poetry."}
+        {
+          "user": "WildlifePhotographer",
+          "rating": 5,
+          "comment": "The sunset colors are more realistic than real life! Absolutely stunning. The procedural generation means I never see the same sunset twice.",
+          "verified": true,
+          "timestamp": "2023-12-28T18:15:00Z",
+          "likes": 30
+        },
+        {
+          "user": "AnimalArtist",
+          "rating": 4,
+          "comment": "Beautiful scene, though the deer anatomy could be more precise. The atmospheric effects are technically masterful.",
+          "verified": true,
+          "timestamp": "2023-12-31T16:00:00Z",
+          "likes": 13
+        },
+        {
+          "user": "NatureDigital",
+          "rating": 5,
+          "comment": "Kelvin Glan captures wilderness moments with digital poetry. This piece has become my daily moment of peace in a busy digital world.",
+          "verified": false,
+          "timestamp": "2024-01-03T19:45:00Z",
+          "likes": 28
+        },
+        {
+          "user": "LandscapeLover",
+          "rating": 5,
+          "comment": "The way the deer stands in perfect harmony with the landscape creates such a powerful sense of peace and natural balance. Truly meditative.",
+          "verified": true,
+          "timestamp": "2024-01-06T18:30:00Z",
+          "likes": 21
+        }
       ]
     },
     {
-      "id": "824993734563658180",
+      "id": "027631",
       "nft": "/images/digital-david-head.png",
       "name": "David Head",
       "price": 0.22,
@@ -487,17 +1302,62 @@
       "short_desc": "A classical sculpture fragment recontextualized in digital space.",
       "full_desc": "David Head isolates the most iconic portion of Michelangelo's masterpiece to examine its details with digital precision. The sculpture appears to be carved from data streams and binary code while maintaining the original's emotional intensity and anatomical perfection. This piece explores how fragmentation can lead to deeper understanding, and how digital technology allows us to appreciate classical art in new dimensions.",
       "collections": ["Wall art", "Art", "Character"],
-      "additional_info": [
-        {"trait": "Fragment Type", "value": "Sculpture Head"},
-        {"trait": "Original", "value": "Michelangelo"},
-        {"trait": "Digital Material", "value": "Data Streams"},
-        {"trait": "Preservation", "value": "Digital Archive"},
-        {"trait": "Art Historical", "value": "Significant"}
+      "details": {
+        "blockchain": "Ethereum",
+        "owner_address": "0x7b5c...9f2a",
+        "contract_address": "0xe9f6...d7c8",
+        "creator_address": "0xd8f3...2a7b",
+        "classification": "Digital Heritage",
+        "token_standard": "ERC-721"
+      },
+      "properties": [
+        { "trait": "Fragment Type", "value": "Sculpture Head" },
+        { "trait": "Original", "value": "Michelangelo" },
+        { "trait": "Digital Material", "value": "Data Streams" },
+        { "trait": "Preservation", "value": "Digital Archive" },
+        { "trait": "Art Historical", "value": "Significant" }
       ],
       "review": [
-        {"user": "ClassicalScholar", "rating": 5, "comment": "Seeing David's head in this digital context reveals new emotional depths."},
-        {"user": "SculptureFan", "rating": 4, "comment": "Interesting digital treatment, though I prefer the complete sculpture."},
-        {"user": "DigitalHeritage", "rating": 5, "comment": "Alameda's digital preservation of classical art is culturally important."}
+        {
+          "user": "ClassicalScholar",
+          "rating": 5,
+          "comment": "Seeing David's head in this digital context reveals new emotional depths. The data stream material creates fascinating tension between classical and digital aesthetics.",
+          "verified": true,
+          "timestamp": "2023-12-27T15:05:00Z",
+          "likes": 22
+        },
+        {
+          "user": "SculptureFan",
+          "rating": 4,
+          "comment": "Interesting digital treatment, though I prefer the complete sculpture. The conceptual approach is innovative and thought-provoking.",
+          "verified": true,
+          "timestamp": "2023-12-30T12:50:00Z",
+          "likes": 14
+        },
+        {
+          "user": "DigitalHeritage",
+          "rating": 5,
+          "comment": "Alameda's digital preservation of classical art is culturally important. This piece demonstrates how technology can help us see old masters in new ways.",
+          "verified": false,
+          "timestamp": "2024-01-02T15:35:00Z",
+          "likes": 26
+        },
+        {
+          "user": "RenaissanceExpert",
+          "rating": 5,
+          "comment": "As a Renaissance art specialist, I find this digital interpretation both respectful and revolutionary. It makes me reconsider Michelangelo's work from a contemporary perspective.",
+          "verified": true,
+          "timestamp": "2024-01-05T17:20:00Z",
+          "likes": 19
+        },
+        {
+          "user": "TechArtHistorian",
+          "rating": 4,
+          "comment": "Fascinating fusion of classical and digital, though some purists may object. The data stream material is conceptually brilliant.",
+          "verified": true,
+          "timestamp": "2024-01-09T14:05:00Z",
+          "likes": 10
+        }
       ]
     }
   ],
