@@ -45,7 +45,8 @@ const Marketplace = () => {
   };
 
   const removeQueryParams = (path, paramToRemove) => {
-    const urlObj = new URL(`http://localhost:5174${path}`);
+    const origin = window.location.origin
+    const urlObj = new URL(`${origin}${path}`);
 
     const params = urlObj.searchParams;
 
