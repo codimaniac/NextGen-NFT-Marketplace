@@ -84,12 +84,3 @@ Contributions are welcome. For small fixes, open a PR. For larger features, plea
 ## License
 
 MIT License
-
----
-
-If you'd like, I can also:
-
-- add a short `README` section showing example API endpoints from `data/db.json`
-- add a `scripts` convenience entry to concurrently run frontend + json-server
-
-Tell me if you want either of those added and I will update the repo.

@@ -41,7 +41,7 @@ const CreateNFT = () => {
   return (
     <div className="flex flex-col items-center justify-center gap-12 section__margin">
       <h1 className="text-3xl font-extrabold lg:text-4xl mt-20">Create Item</h1>
-      <div className="flex w-full">
+      <div className="flex flex-col items-center w-full gap-28 text-xs lg:flex-row lg:items-start lg:gap-8">
         <div className="flex flex-col flex-1 gap-4">
           <div className="h3">Preview Item</div>
           <NFTsCard
@@ -52,11 +52,11 @@ const CreateNFT = () => {
             creator_pfp={CreatorPFP}
           />
         </div>
-        <div className="flex flex-col flex-3">
-          <form className="flex flex-col gap-8">
+        <div className="flex flex-col flex-3 w-full">
+          <form className="flex flex-col gap-4">
             <div className="flex flex-col gap-2">
               <span className="font-semibold">Upload File</span>
-              <div className="flex items-center justify-between bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] p-8">
+              <div className="flex items-center justify-between bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] p-4">
                 <input
                   type="file"
                   name="file"
@@ -71,7 +71,7 @@ const CreateNFT = () => {
                   htmlFor="file"
                   className="border-2 border-transparent gradient-lin-bg bg-clip-border cursor-pointer"
                 >
-                  <div className="bg-[#16192a] w-full h-full py-4 px-16">
+                  <div className="bg-[#16192a] w-full h-full py-2 px-12">
                     Upload File
                   </div>
                 </label>
@@ -119,7 +119,7 @@ const CreateNFT = () => {
                 onChange={(e) => setPrice(e.target.value)}
               />
             </div>
-            <div className="flex gap-4">
+            <div className="flex flex-col gap-4 md:flex-row">
               <div className="flex flex-col flex-1 gap-2">
                 <label htmlFor="size" className="font-semibold">
                   Size
