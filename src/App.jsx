@@ -14,6 +14,7 @@ import {
   NFTDetail,
   Collectibles,
   CreateNFT,
+  ConnectWallet,
 } from "./pages";
 import { Layout } from "./containers";
 import { Suspense } from "react";
@@ -35,6 +36,7 @@ function App() {
         <Route path="/nft/:id/*" element={<Suspense fallback={<LoadingState />}><NFTDetail /></Suspense>} />
         <Route path="/creator-profile/:id/*" element={<Suspense fallback={<LoadingState />}><CreatorProfile /></Suspense>} />
         <Route path="/create-item" element={<Suspense fallback={<LoadingState />}><CreateNFT /></Suspense>} />
+        <Route path="/connect-wallet" element={<Suspense fallback={<LoadingState />}><ConnectWallet /></Suspense>} />
         <Route path="/faq" element={<Suspense fallback={<LoadingState />}><FAQ /></Suspense>} />
         <Route path="*" element={<Suspense fallback={<LoadingState />}><NotFound /></Suspense>} />
       </Route>

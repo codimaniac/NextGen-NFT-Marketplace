@@ -16,7 +16,7 @@ const NFTsCard = ({id, nft, name, price, creator, creator_pfp}) => {
             </div>
             <div className="flex flex-col gap-2 items-center justify-between">
               <button className="text-xs w-full border-2 border-transparent gradient-lin-bg bg-clip-border cursor-pointer rounded-[10px]"><div className="bg-[var(--light-color)] w-full h-full rounded-[10px]"><Link to={`/nft/${id}`} className="block w-full h-full py-[8px] px-[24px] md:py-[4px] md:px-[12px]">View Details</Link></div></button>
-              <Button className="gradient-lin-bg w-full text-xs text-[var(--light-color)] rounded-[10px]"><Link to="/buy" className="block w-full h-full py-[8px] px-[24px]">Buy It Now</Link></Button>
+              <Button className="gradient-lin-bg w-full text-xs text-[var(--light-color)] rounded-[10px]"><Link to="/connect-wallet" className="block w-full h-full py-[8px] px-[24px]">Buy It Now</Link></Button>
             </div>
         </div>
     </div>

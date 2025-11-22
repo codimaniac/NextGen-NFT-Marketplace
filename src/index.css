@@ -167,3 +167,19 @@ html, body {
     background-clip: text;
     color: transparent;
 }
+
+@keyframes soft-bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-15%);
+  }
+  60% {
+    transform: translateY(-10%);
+  }
+}
+
+.activate-hover:hover > .animate-soft-bounce {
+  animation: soft-bounce 1.3s linear 2;
+}

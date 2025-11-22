@@ -16,8 +16,8 @@ const Marketplace = () => {
   const [isNavOpen, setIsNavOpen] = useState(false);
   const location = useLocation();
   const path = location.pathname + location.search;
-  const db_url = import.meta.env.VITE_DB_URL
-  const [nfts, isLoading, isError] = useGetData(`${db_url}/NFTs`)
+  const db_url = import.meta.env.VITE_DB_URL;
+  const [nfts, isLoading, isError] = useGetData(`${db_url}/NFTs`);
   const [searchParams, setSearchParams] = useSearchParams();
   const searchFilter = searchParams.get("search")?.toLowerCase();
   const collectionFilter = searchParams.get("collection");
@@ -53,10 +53,10 @@ const Marketplace = () => {
 
     return urlObj.toString();
   };
-  
+
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [])
+    window.scrollTo(0, 0);
+  }, []);
 
   if (isLoading) {
     return (
@@ -84,9 +84,7 @@ const Marketplace = () => {
 
   return (
     <div className="flex flex-col gap-4 items-center section__margin">
-      <h1 className="text-3xl font-extrabold lg:text-4xl mt-20">
-        Explore NFTs
-      </h1>
+      <h1 className="text-3xl font-extrabold lg:text-4xl mt-8">Explore NFTs</h1>
       <div className="flex justify-between mt-2 px-2 bg-[#16192a] border-2 border-[#2e3150] w-80 rounded-full text-xs md:w-90 lg:w-100">
         <input
           type="text"

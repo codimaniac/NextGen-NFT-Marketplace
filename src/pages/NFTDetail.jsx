@@ -19,14 +19,17 @@ const ProductDescription = ({ full_desc, details }) => {
       <div className="text-xl font-extrabold">Product Description</div>
       <div className="text-[12px]">{full_desc}</div>
       <div className="text-xl font-extrabold">Product Details</div>
-      {
-        Object.entries(details).map(([key, value], index) => (
-          <div key={index} className="flex justify-between border-b border-[#2e3150] pb-2 mb-2">
-            <span className="font-medium">{capitalizeWords(key.replace(/_/g, ' '))}:</span>
-            <span>{value}</span>
-          </div>
-        ))
-      }
+      {Object.entries(details).map(([key, value], index) => (
+        <div
+          key={index}
+          className="flex justify-between border-b border-[#2e3150] pb-2 mb-2"
+        >
+          <span className="font-medium">
+            {capitalizeWords(key.replace(/_/g, " "))}:
+          </span>
+          <span>{value}</span>
+        </div>
+      ))}
     </div>
   );
 };
@@ -35,14 +38,15 @@ const AdditionalInfo = ({ properties }) => {
   return (
     <div className="flex flex-col gap-4 bg-[#16192a] border-1 border-[#2e3150] p-8 my-8 w-full rounded-[10px] font-light text-sm leading-[183%] text-justify">
       <div className="text-xl font-extrabold">Properties</div>
-      {
-        properties.map((property, index) => (
-          <div key={index} className="flex justify-between border-b border-[#2e3150] pb-2 mb-2">
-            <span>{property.trait}</span>
-            <span>{property.value}</span>
-          </div>
-        ))
-      }
+      {properties.map((property, index) => (
+        <div
+          key={index}
+          className="flex justify-between border-b border-[#2e3150] pb-2 mb-2"
+        >
+          <span>{property.trait}</span>
+          <span>{property.value}</span>
+        </div>
+      ))}
     </div>
   );
 };
@@ -51,12 +55,12 @@ const NFTDetail = () => {
   const { id } = useParams();
   const basePath = `/nft/${id}`;
   const path = useResolvedPath("").pathname;
-  const db_url = import.meta.env.VITE_DB_URL
-  const [nft, isLoading, isError] = useGetData(`${db_url}/NFTs/${id}`)
-  
+  const db_url = import.meta.env.VITE_DB_URL;
+  const [nft, isLoading, isError] = useGetData(`${db_url}/NFTs/${id}`);
+
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [])
+    window.scrollTo(0, 0);
+  }, []);
 
   if (isLoading) {
     return (
@@ -85,7 +89,7 @@ const NFTDetail = () => {
   return (
     <>
       <div className="flex flex-col gap-8 items-center section__margin">
-        <h1 className="text-3xl font-extrabold lg:text-4xl mt-20">
+        <h1 className="text-3xl font-extrabold lg:text-4xl mt-8">
           Item Details
         </h1>
         <div className="flex flex-col w-full gap-12 lg:flex-row">
@@ -188,7 +192,12 @@ const NFTDetail = () => {
         <Routes>
           <Route
             index
-            element={<ProductDescription full_desc={nft.full_desc} details={nft.details} />}
+            element={
+              <ProductDescription
+                full_desc={nft.full_desc}
+                details={nft.details}
+              />
+            }
           />
           <Route
             path="additional-info"

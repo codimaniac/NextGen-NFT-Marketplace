@@ -28,7 +28,7 @@ const CreateNFT = () => {
   // Use a single onChange handler on the <select> to reliably get all selected values.
   const handleCollectionChange = (e) => {
     const values = Array.from(e.target.selectedOptions, (opt) => opt.value);
-    setCollection(values.filter(item => item !== ""));
+    setCollection(values.filter((item) => item !== ""));
   };
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -40,7 +40,7 @@ const CreateNFT = () => {
 
   return (
     <div className="flex flex-col items-center justify-center gap-12 section__margin">
-      <h1 className="text-3xl font-extrabold lg:text-4xl mt-20">Create Item</h1>
+      <h1 className="text-3xl font-extrabold lg:text-4xl mt-8">Create Item</h1>
       <div className="flex flex-col items-center w-full gap-28 text-xs lg:flex-row lg:items-start lg:gap-8">
         <div className="flex flex-col flex-1 gap-4">
           <div className="h3">Preview Item</div>
