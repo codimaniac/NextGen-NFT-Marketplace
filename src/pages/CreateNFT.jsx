@@ -1,15 +1,44 @@
 import { useEffect, useState } from "react";
 import { Button, NFTsCard } from "../components";
 import CreatorPFP from "/public/images/loura-chin-pfp.png";
+import { toast } from "react-toastify";
 
 const CreateNFT = () => {
-  const [file, setFile] = useState();
-  const [preview, setPreview] = useState();
+  const [file, setFile] = useState(null);
+  const [preview, setPreview] = useState(null);
   const [title, setTitle] = useState("");
   const [description, setDescription] = useState("");
-  const [price, setPrice] = useState();
-  const [size, setSize] = useState();
+  const [price, setPrice] = useState("");
+  const [size, setSize] = useState("");
   const [collection, setCollection] = useState([]);
+
+  const handleFormSubmission = (e) => {
+    e.preventDefault();
+
+    if (
+      !file ||
+      !preview ||
+      !title ||
+      !description ||
+      !price ||
+      !size ||
+      collection.length === 0
+    ) {
+      toast.error("Some content are missing!");
+
+      return;
+    }
+
+    setFile(null);
+    setPreview(null);
+    setTitle("");
+    setDescription("");
+    setPrice("");
+    setSize("");
+    setCollection([]);
+
+    toast.success("NFT uploaded successfully!");
+  };
 
   const handleFileUpload = (e) => {
     const selectedFile = e.target.files[0]; // Get the first selected file
@@ -53,7 +82,7 @@ const CreateNFT = () => {
           />
         </div>
         <div className="flex flex-col flex-3 w-full">
-          <form className="flex flex-col gap-4">
+          <form className="flex flex-col gap-4" onSubmit={handleFormSubmission}>
             <div className="flex flex-col gap-2">
               <span className="font-semibold">Upload File</span>
               <div className="flex items-center justify-between bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] p-4">
@@ -141,12 +170,10 @@ const CreateNFT = () => {
                 <select
                   multiple
                   size={1}
+                  value={collection}
                   onChange={handleCollectionChange}
                   className="bg-[#16192a] border-2 border-[#2e3150] rounded-[10px] py-4 px-6 font-normal"
                 >
-                  <option className="p-4 text-black" value="" disabled selected>
-                    Select a collection
-                  </option>
                   <option className="p-4 text-black" value="Wall Art">
                     Wall Art
                   </option>
